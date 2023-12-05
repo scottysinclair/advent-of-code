@@ -24,11 +24,20 @@ fun calculateNumber(line: String) : Int {
 }
 
 fun getFirstDigit(line: String, numberText: List<String>): Int {
+   /*
+    * find the first digit from the left
+    */
    return line.indices.firstNotNullOf { i ->
+      /*
+       * either it really is a digit
+       */
       if (line[i] in '0'..'9') {
          line[i].toString().toInt()
       }
       else {
+         /*
+          * or it's the name of a digit
+          */
          numberText.indices.firstNotNullOfOrNull { nti ->
             val linePart = line.substring(i, min(i + numberText[nti].length, line.length))
             if (linePart == numberText[nti]) nti+1
