@@ -4,13 +4,14 @@ import java.io.File
 
 
 fun main() {
-   part1()
+   //part1()
+   part2()
 }
 
 
 private fun part1() {
    File("src/main/resources/day-7-input.txt").useLines { lines ->
-      val handsAndBids = parse(lines)
+      val handsAndBids = parsePart1(lines)
       handsAndBids.sortedBy { it.hand }
          .onEach(::println)
          .mapIndexed { index, (hand, bid) ->
@@ -22,23 +23,106 @@ private fun part1() {
    }
 }
 
-fun parse(lines: Sequence<String>): List<HandAndBid> {
+fun parsePart1(lines: Sequence<String>): List<HandAndBid> {
    val regex = Regex("(\\S+)\\s(\\S+)")
    return lines.map {
       regex.find(it)!!.groupValues.let { v ->
-         val hand = parseHand(v[1])
+         val hand = parseHandPart1(v[1])
          val bid = v[2].toInt()
          HandAndBid(hand, bid)
       }
    }.toList()
 }
 
-fun parseHand(handText: String): Hand {
-   return handText.asSequence().map(Card::toCard).fold(EmptyHand as Hand) { hand, card -> hand + card }
+fun parseHandPart1(handText: String): Hand {
+   return handText.asSequence().map(Card::toCardPart1).fold(EmptyHand as Hand) { hand, card -> hand + card }
+}
+
+private fun part2() {
+   File("src/main/resources/day-7-input.txt").useLines { lines ->
+      val handsAndBids = parsePart2(lines)
+      handsAndBids.map { handAndBid ->
+            tryUpgrade(handAndBid).also { upgraded ->
+               if (upgraded.hand != handAndBid.hand) println("$handAndBid     ==>    $upgraded")
+            }
+         }
+         .sortedBy { it.hand }
+         .onEach(::println)
+         .mapIndexed { index, (hand, bid) ->
+            val rank = index + 1
+            bid * rank
+         }
+         .sum()
+         .let(::println)
+   }
+}
+
+fun parsePart2(lines: Sequence<String>): List<HandAndBid> {
+   val regex = Regex("(\\S+)\\s(\\S+)")
+   return lines.map {
+      regex.find(it)!!.groupValues.let { v ->
+         val hand = parseHandPart2(v[1])
+         val bid = v[2].toInt()
+         HandAndBid(hand, bid)
+      }
+   }.toList()
 }
 
 
+fun parseHandPart2(handText: String): Hand {
+   return handText.asSequence().map(Card::toCardPart2).fold(EmptyHand as Hand) { hand, card -> hand + card }
+}
+
+fun tryUpgrade(handAndBid: HandAndBid) : HandAndBid = HandAndBid(tryUpgrade(handAndBid.hand), handAndBid.bid)
+fun tryUpgrade(hand: Hand) : Hand {
+   return when (hand) {
+      is FiveOfAKind -> hand
+      is FourOfAKind -> {
+         when (hand.countJokers()) {
+            1, 4  -> FiveOfAKind(hand.cards)
+            else -> hand
+         }
+      }
+      is FullHouse -> {
+         when (hand.countJokers()) {
+            1 -> FourOfAKind(hand.cards)
+            2, 3 -> FiveOfAKind(hand.cards)
+            else -> hand
+         }
+      }
+      is ThreeOfAKind -> {
+         when (hand.countJokers()) {
+            1 -> FourOfAKind(hand.cards)
+            3 -> FourOfAKind(hand.cards) //the three of a kind are jokers
+            else -> hand
+         }
+      }
+      is TwoPair -> {
+         when (hand.countJokers()) {
+            1 -> FullHouse(hand.cards)
+            2 -> FourOfAKind(hand.cards) //one of the pair must be 2 jokers
+            else -> hand
+         }
+      }
+      is OnePair -> {
+         when (hand.countJokers()) {
+            1 -> ThreeOfAKind(hand.cards)
+            2 -> ThreeOfAKind(hand.cards) //if there are 2 jokers, then that IS it the pair
+            else -> hand
+         }
+      }
+      is HighCard -> {
+         when (hand.countJokers()) {
+            1 -> OnePair(hand.cards)
+            else -> hand
+         }
+      }
+      is EmptyHand -> hand
+   }
+}
+
 enum class Card(val char: Char) {
+   JOKER('J'),
    TWO('2'),
    THREE('3'),
    FOUR('4'),
@@ -54,8 +138,11 @@ enum class Card(val char: Char) {
    ACE('A');
 
    companion object {
-      fun toCard(char: Char): Card {
-         return entries.first { it.char == char }
+      fun toCardPart1(char: Char): Card {
+         return entries.filterNot { it == JOKER }.first { it.char == char }
+      }
+      fun toCardPart2(char: Char): Card {
+         return entries.filterNot { it == JACK }.first { it.char == char }
       }
    }
 }
@@ -68,9 +155,14 @@ data class HandAndBid(val hand: Hand, val bid: Int) {
 }
 
 
-sealed class Hand(protected val cards: List<Card>, private val strength: Int) : Comparable<Hand> {
+sealed class Hand(val cards: List<Card>, private val strength: Int) : Comparable<Hand> {
+
    abstract operator fun plus(card: Card): Hand
+
    protected fun countMatches(card: Card): Int = cards.count { c -> c == card }
+
+   fun countJokers(): Int = cards.count { c -> c == Card.JOKER }
+
    override fun compareTo(other: Hand): Int {
      return compareByHandStrength(other).takeIf { it != 0 } ?: compareByCardStrength(other)
    }
@@ -80,7 +172,6 @@ sealed class Hand(protected val cards: List<Card>, private val strength: Int) : 
    override fun toString(): String {
       return "[${cards.joinToString("") { it.char.toString() }}]"
    }
-
 }
 
 data object EmptyHand : Hand(emptyList(), 0) {
@@ -88,6 +179,7 @@ data object EmptyHand : Hand(emptyList(), 0) {
       return HighCard(listOf(card))
    }
 }
+
 
 class HighCard(cards: List<Card>) : Hand(cards, 1) {
    override fun plus(card: Card): Hand {
@@ -118,6 +210,7 @@ class TwoPair(cards: List<Card>) : Hand(cards, 3) {
          else -> throw IllegalStateException("Count of $count is not possible")
       }
    }
+
 }
 
 class ThreeOfAKind(cards: List<Card>) : Hand(cards, 4) {
