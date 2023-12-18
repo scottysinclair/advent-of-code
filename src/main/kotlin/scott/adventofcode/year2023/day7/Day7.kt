@@ -79,13 +79,13 @@ fun tryUpgrade(hand: Hand) : Hand {
       is FiveOfAKind -> hand
       is FourOfAKind -> {
          when (hand.countJokers()) {
-            1, 4  -> FiveOfAKind(hand.cards)
+            1 -> FiveOfAKind(hand.cards)
+            4 -> FiveOfAKind(hand.cards) //the four of a kind are jokers
             else -> hand
          }
       }
       is FullHouse -> {
          when (hand.countJokers()) {
-            1 -> FourOfAKind(hand.cards)
             2, 3 -> FiveOfAKind(hand.cards)
             else -> hand
          }
@@ -107,13 +107,13 @@ fun tryUpgrade(hand: Hand) : Hand {
       is OnePair -> {
          when (hand.countJokers()) {
             1 -> ThreeOfAKind(hand.cards)
-            2 -> ThreeOfAKind(hand.cards) //if there are 2 jokers, then that IS it the pair
+            2 -> ThreeOfAKind(hand.cards) //the pair is from jokers
             else -> hand
          }
       }
       is HighCard -> {
          when (hand.countJokers()) {
-            1 -> OnePair(hand.cards)
+            1 -> OnePair(hand.cards) //all cards are different only 1 joker is possible
             else -> hand
          }
       }
