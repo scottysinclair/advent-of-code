@@ -1,8 +1,15 @@
 package scott.adventofcode.year2023.day8
 
+import com.fasterxml.jackson.annotation.JsonIgnore
+import com.fasterxml.jackson.core.JsonGenerator
+import com.fasterxml.jackson.databind.SerializationFeature
+import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
+import com.sun.source.tree.Tree
 import scott.adventofcode.year2023.day8.Direction.*
+import java.io.BufferedOutputStream
 import java.io.File
 import java.io.FileOutputStream
+import java.io.OutputStream
 import java.io.PrintStream
 import java.time.Duration
 import java.util.TreeMap
@@ -10,30 +17,8 @@ import java.util.concurrent.locks.ReentrantLock
 import kotlin.concurrent.withLock
 
 fun main() {
-   val nodeFactory = NodeFactory()
-   val lastPositions = loadLastPositions("day-8.log", nodeFactory)
-
-
-   System.setOut(PrintStream(FileOutputStream("day-8.log", true)))
-   //
    //part1()
-   part2(lastPositions, nodeFactory)
-}
-
-val regexpLastPos = Regex("Position: (\\d) Step: (\\d+)  Node: (\\S\\S\\S) di: (\\d+)")
-fun loadLastPositions(fileName: String, nodeFactory: NodeFactory): Set<PositionData> {
-   return runCatching {
-      File(fileName).useLines { lines ->
-         lines.filter { it.contains("Position:") }
-            .map {
-             val (pos, step, node, index) = regexpLastPos.find(it)!!.groupValues.drop(1)
-            PositionData(pos.toInt(), step.toLong(), nodeFactory.create(node), index.toLong())
-         }.map { mapOf(it.positionId to it) }
-            .reduce { a, b ->  a + b }
-            .values.toSet()
-      }
-   }.onFailure { it.printStackTrace() }
-      .getOrDefault(emptySet())
+   part2()
 }
 
 private fun part1() {
@@ -56,47 +41,41 @@ private fun part1() {
 }
 
 
-private fun part2(lastPositions: Set<PositionData>, nodeFactory: NodeFactory) {
+private fun part2() {
 
-   File("src/main/resources/day-8-input.txt").useLines { linesSeq ->
-      val lines = linesSeq.toList()
-      val directions = parseDirections(lines)
-      parseInstructions(nodeFactory, lines)
-      val ruleOutEvery = 1000L
-      val reportEvery = Duration.ofMinutes(1)
-      var currentPositions = if (lastPositions.size == 6) {
-         lastPositions.map { Position(it.positionId, it.node, it.stepNumber, ruleOutEvery, directions, it.directionIndex) }
-      }
-      else {
-         nodeFactory.findAll(Regex("..A")).mapIndexed { i, node -> Position(i, node, 0, ruleOutEvery, directions, 0L) }
-      }
-      val checkQueue = CheckQueue(currentPositions.size, 10000, reportEvery)
-      println("${currentPositions.size} starting positions and threads")
-      while(!checkQueue.isFinished()) {
-         currentPositions.forEach { it.nextStep(checkQueue) }
-      }
+   BufferedOutputStream(FileOutputStream("day-8-report.json")).use { reportStream  ->
+      File("src/main/resources/day-8-input.txt").useLines { linesSeq ->
+         val lines = linesSeq.toList()
+         val directions = parseDirections(lines)
+         val nodeFactory = NodeFactory()
+         parseInstructions(nodeFactory, lines)
+         val ruleOutEvery = 1000L
+         val reportEvery = Duration.ofMinutes(30)
+         val currentPositions = nodeFactory.findAll(Regex("..A")).mapIndexed { i, node -> Position(i, node, 0, ruleOutEvery, directions, 0L) }
+         val checkQueue = CheckQueue(currentPositions.size, 10000, reportEvery)
+         println("${currentPositions.size} starting positions and threads")
 
-      /*
-      currentPositions.parallelStream().forEach { position ->
-         var lastReportTime = System.currentTimeMillis()
-         var finished = false
-         while (!finished) {
-            if ((System.currentTimeMillis() - lastReportTime) > reportEvery.toMillis()) {
-               checkQueue.report()
-               lastReportTime = System.currentTimeMillis()
-            }
-            if (position.nextStep(checkQueue)) {
-               finished = true
-            }
-            if (position.stepsTaken() % 1000 == 0L) {
-               finished = checkQueue.isFinished()
+         currentPositions.parallelStream().forEach { position ->
+            var lastReportTime = System.currentTimeMillis()
+            var finished = false
+            while (!finished) {
+               if ((System.currentTimeMillis() - lastReportTime) > reportEvery.toMillis()) {
+                  checkQueue.report(reportStream)
+                  lastReportTime = System.currentTimeMillis()
+               }
+               if (position.nextStep(checkQueue)) {
+                  finished = true
+               }
+               if (position.stepsTaken() % 1000 == 0L) {
+                  finished = checkQueue.isFinished()
+               }
             }
          }
-      }
 
-       */
-      checkQueue.report(true)
-      println(checkQueue.getFinishedCheck()!!.stepNumber)
+
+         checkQueue.report(reportStream, true)
+         println(checkQueue.getFinishedCheck()!!.stepNumber)
+      }
    }
 }
 
@@ -104,22 +83,30 @@ class CheckQueue(private val numberOfPositions: Int, private val maxQueueSize: I
    private val stepsToCheck = TreeMap<Long, Check>()
    private val lock = ReentrantLock()
    private val canProceeed = lock.newCondition()
-   private val lastPositions = mutableMapOf<Int,PositionData>()
+   private val lastPositions = TreeMap<Int,PositionData>()
    private var finishedCheck: Check? = null
    private var lastReport = 0L
+   private val mapper = jacksonObjectMapper().apply {
+      enable(SerializationFeature.INDENT_OUTPUT)
+      factory.disable(JsonGenerator.Feature.AUTO_CLOSE_TARGET)
+   }
 
-   fun report(override: Boolean) = lock.withLock{
+   fun report(stream: OutputStream,  override: Boolean = false) = lock.withLock{
       if (override || System.currentTimeMillis() - lastReport > reportEvery.toMillis()) {
          println("Reporting.....")
-         println("Queue size ${stepsToCheck.size}")
-         lastPositions.values.forEach { lastPos ->
-            println("Position: ${lastPos.positionId} Step: ${lastPos.stepNumber}  Node: ${lastPos.node.text} di: ${lastPos.directionIndex}")
+         mapOf(
+            "numberOfStepsToCheck" to stepsToCheck.size,
+            "stepsToCheck" to stepsToCheck,
+            "lastPositions" to lastPositions,
+            "finishedCheck" to finishedCheck).let {
+            mapper.writeValue(stream, it)
          }
          lastReport = System.currentTimeMillis()
       }
    }
 
    fun ruleOut(positionData: PositionData) = lock.withLock {
+      lastPositions[positionData.positionId] = positionData
 //      println("Ruling out ${positionData.stepNumber} for pos ${positionData.positionId}, qz: ${stepsToCheck.size}")
       //remove checks if this positionData jumped it
       val i = stepsToCheck.values.iterator()
@@ -146,6 +133,7 @@ class CheckQueue(private val numberOfPositions: Int, private val maxQueueSize: I
        * if there is a higher step with a positionId which is missing from the current step check then
        * we don't need to add a new check for the step.
        */
+
       if (stepsToCheck.values.count { it.stepNumber > positionData.stepNumber &&  (it.positionIds - theCheck.positionIds).isNotEmpty() } == 0) {
          theCheck.add(positionData)
 //         println("Processing step ${positionData.stepNumber} Adding check for position ${positionData.positionId} at step ${positionData.stepNumber}, node ${positionData.node.text}")
@@ -190,7 +178,7 @@ class CheckQueue(private val numberOfPositions: Int, private val maxQueueSize: I
          else if (stepsToCheck.size < 100) {
             canProceeed.signalAll()
          }
-         report(true)
+//         report(true)
       }
    }
    fun getFinishedCheck(): Check? = lock.withLock { finishedCheck }
@@ -205,7 +193,7 @@ data class PositionData(val positionId: Int, val stepNumber: Long, val node: Nod
 
 data class Check(val stepNumber: Long, val positionIds: MutableSet<Int>, val nodes: MutableSet<Node>) {
    fun add(positionData: PositionData) {
-      require(positionIds.add(positionData.positionId)) { "step ${stepNumber }already had position ${positionData.positionId} in the check "}
+      require(positionIds.add(positionData.positionId)) { "step ${stepNumber } already had position ${positionData.positionId} in the check "}
       this.nodes.add(positionData.node)
    }
 
@@ -330,7 +318,9 @@ class Node(val text: String) {
       }
    }
 
+   @JsonIgnore
    fun getLeft() = left
+   @JsonIgnore
    fun getRight() = right
    override fun toString(): String {
       return "Node(text='$text', left=${left.text}, right=${right.text})"
