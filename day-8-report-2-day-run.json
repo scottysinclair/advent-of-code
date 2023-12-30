@@ -1,0 +1,8741 @@
+{
+  "numberOfStepsToCheck" : 10,
+  "stepsToCheck" : {
+    "35011485835" : {
+      "stepNumber" : 35011485835,
+      "positionIds" : [ 3, 0 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "35012018611" : {
+      "stepNumber" : 35012018611,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "35012040810" : {
+      "stepNumber" : 35012040810,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "35012063009" : {
+      "stepNumber" : 35012063009,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "35012085208" : {
+      "stepNumber" : 35012085208,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "35012107407" : {
+      "stepNumber" : 35012107407,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "35012129606" : {
+      "stepNumber" : 35012129606,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "35012151805" : {
+      "stepNumber" : 35012151805,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "35012174004" : {
+      "stepNumber" : 35012174004,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "35012196203" : {
+      "stepNumber" : 35012196203,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 35012000000,
+      "node" : {
+        "text" : "XNV"
+      },
+      "directionIndex" : 216
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 35011443000,
+      "node" : {
+        "text" : "PHH"
+      },
+      "directionIndex" : 158
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 34881421000,
+      "node" : {
+        "text" : "RJJ"
+      },
+      "directionIndex" : 230
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 35012209000,
+      "node" : {
+        "text" : "KRH"
+      },
+      "directionIndex" : 152
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 34993078000,
+      "node" : {
+        "text" : "HMR"
+      },
+      "directionIndex" : 194
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 34987235000,
+      "node" : {
+        "text" : "BHG"
+      },
+      "directionIndex" : 27
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 5,
+  "stepsToCheck" : {
+    "70708639208" : {
+      "stepNumber" : 70708639208,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "70708658035" : {
+      "stepNumber" : 70708658035,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "70708676862" : {
+      "stepNumber" : 70708676862,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "70708695689" : {
+      "stepNumber" : 70708695689,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "70708714516" : {
+      "stepNumber" : 70708714516,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 70708649000,
+      "node" : {
+        "text" : "TTD"
+      },
+      "directionIndex" : 238
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 70708726000,
+      "node" : {
+        "text" : "TCK"
+      },
+      "directionIndex" : 244
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 70444278000,
+      "node" : {
+        "text" : "HBB"
+      },
+      "directionIndex" : 220
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 70708330000,
+      "node" : {
+        "text" : "QCG"
+      },
+      "directionIndex" : 173
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 70696532000,
+      "node" : {
+        "text" : "FMJ"
+      },
+      "directionIndex" : 239
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 70642189000,
+      "node" : {
+        "text" : "QJV"
+      },
+      "directionIndex" : 110
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 5,
+  "stepsToCheck" : {
+    "107134660497" : {
+      "stepNumber" : 107134660497,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "107134681010" : {
+      "stepNumber" : 107134681010,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "107134701523" : {
+      "stepNumber" : 107134701523,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "107134722036" : {
+      "stepNumber" : 107134722036,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "107134742549" : {
+      "stepNumber" : 107134742549,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 107134745000,
+      "node" : {
+        "text" : "DDG"
+      },
+      "directionIndex" : 203
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 107134649000,
+      "node" : {
+        "text" : "CSS"
+      },
+      "directionIndex" : 24
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 106781102000,
+      "node" : {
+        "text" : "QDN"
+      },
+      "directionIndex" : 199
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 107134643000,
+      "node" : {
+        "text" : "GSC"
+      },
+      "directionIndex" : 206
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 107101149000,
+      "node" : {
+        "text" : "VJK"
+      },
+      "directionIndex" : 1
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 107026190000,
+      "node" : {
+        "text" : "LGG"
+      },
+      "directionIndex" : 280
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 5,
+  "stepsToCheck" : {
+    "143529378948" : {
+      "stepNumber" : 143529378948,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "143529399461" : {
+      "stepNumber" : 143529399461,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "143529419974" : {
+      "stepNumber" : 143529419974,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "143529440487" : {
+      "stepNumber" : 143529440487,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "143529461000" : {
+      "stepNumber" : 143529461000,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 143529475000,
+      "node" : {
+        "text" : "PHR"
+      },
+      "directionIndex" : 231
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 143529367000,
+      "node" : {
+        "text" : "RFF"
+      },
+      "directionIndex" : 135
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 143071252000,
+      "node" : {
+        "text" : "PTS"
+      },
+      "directionIndex" : 278
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 143528592000,
+      "node" : {
+        "text" : "JXF"
+      },
+      "directionIndex" : 133
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 143514524000,
+      "node" : {
+        "text" : "BJP"
+      },
+      "directionIndex" : 117
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 143344465000,
+      "node" : {
+        "text" : "GQT"
+      },
+      "directionIndex" : 69
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 2,
+  "stepsToCheck" : {
+    "179571643033" : {
+      "stepNumber" : 179571643033,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "179571663546" : {
+      "stepNumber" : 179571663546,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 179571683000,
+      "node" : {
+        "text" : "CGQ"
+      },
+      "directionIndex" : 65
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 179570975000,
+      "node" : {
+        "text" : "SSK"
+      },
+      "directionIndex" : 185
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 179008022506,
+      "node" : {
+        "text" : "PFZ"
+      },
+      "directionIndex" : 281
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 179571627000,
+      "node" : {
+        "text" : "HVP"
+      },
+      "directionIndex" : 265
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 179557948000,
+      "node" : {
+        "text" : "FKF"
+      },
+      "directionIndex" : 64
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 179328986000,
+      "node" : {
+        "text" : "BTF"
+      },
+      "directionIndex" : 236
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "216465135079" : {
+      "stepNumber" : 216465135079,
+      "positionIds" : [ 0, 3 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "216466447911" : {
+      "stepNumber" : 216466447911,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "216466468424" : {
+      "stepNumber" : 216466468424,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "216466488937" : {
+      "stepNumber" : 216466488937,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "216466509450" : {
+      "stepNumber" : 216466509450,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "216466529963" : {
+      "stepNumber" : 216466529963,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "216466550476" : {
+      "stepNumber" : 216466550476,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 216466565000,
+      "node" : {
+        "text" : "CCL"
+      },
+      "directionIndex" : 193
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 216465045000,
+      "node" : {
+        "text" : "VDR"
+      },
+      "directionIndex" : 122
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 215785872093,
+      "node" : {
+        "text" : "PFZ"
+      },
+      "directionIndex" : 281
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 216466432000,
+      "node" : {
+        "text" : "VLF"
+      },
+      "directionIndex" : 106
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 216447683000,
+      "node" : {
+        "text" : "XLR"
+      },
+      "directionIndex" : 269
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 216155688000,
+      "node" : {
+        "text" : "SXL"
+      },
+      "directionIndex" : 237
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "253197620588" : {
+      "stepNumber" : 253197620588,
+      "positionIds" : [ 1, 0, 3 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "253209218020" : {
+      "stepNumber" : 253209218020,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "253209236847" : {
+      "stepNumber" : 253209236847,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "253209255674" : {
+      "stepNumber" : 253209255674,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "253209274501" : {
+      "stepNumber" : 253209274501,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "253209293328" : {
+      "stepNumber" : 253209293328,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "253209312155" : {
+      "stepNumber" : 253209312155,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 253209209000,
+      "node" : {
+        "text" : "CLR"
+      },
+      "directionIndex" : 253
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 253209321000,
+      "node" : {
+        "text" : "DPF"
+      },
+      "directionIndex" : 134
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 252412452000,
+      "node" : {
+        "text" : "KCN"
+      },
+      "directionIndex" : 207
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 253208809000,
+      "node" : {
+        "text" : "BTR"
+      },
+      "directionIndex" : 116
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 253187443000,
+      "node" : {
+        "text" : "SMH"
+      },
+      "directionIndex" : 232
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 252811341000,
+      "node" : {
+        "text" : "LTG"
+      },
+      "directionIndex" : 153
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "289461773794" : {
+      "stepNumber" : 289461773794,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "289768258527" : {
+      "stepNumber" : 289768258527,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "289768689300" : {
+      "stepNumber" : 289768689300,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "289768709813" : {
+      "stepNumber" : 289768709813,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "289768730326" : {
+      "stepNumber" : 289768730326,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "289768750839" : {
+      "stepNumber" : 289768750839,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "289768771352" : {
+      "stepNumber" : 289768771352,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 289768777000,
+      "node" : {
+        "text" : "CLR"
+      },
+      "directionIndex" : 28
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 289768685000,
+      "node" : {
+        "text" : "QRG"
+      },
+      "directionIndex" : 196
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 288866669000,
+      "node" : {
+        "text" : "FPS"
+      },
+      "directionIndex" : 97
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 289767892000,
+      "node" : {
+        "text" : "QHR"
+      },
+      "directionIndex" : 178
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 289759890000,
+      "node" : {
+        "text" : "MJJ"
+      },
+      "directionIndex" : 215
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 289314657000,
+      "node" : {
+        "text" : "BPB"
+      },
+      "directionIndex" : 194
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 4,
+  "stepsToCheck" : {
+    "326649560793" : {
+      "stepNumber" : 326649560793,
+      "positionIds" : [ 1, 3 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "326649993814" : {
+      "stepNumber" : 326649993814,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "326650012641" : {
+      "stepNumber" : 326650012641,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "326650031468" : {
+      "stepNumber" : 326650031468,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 326649005000,
+      "node" : {
+        "text" : "MFS"
+      },
+      "directionIndex" : 25
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 326650048000,
+      "node" : {
+        "text" : "PHH"
+      },
+      "directionIndex" : 234
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 325626126000,
+      "node" : {
+        "text" : "HQS"
+      },
+      "directionIndex" : 84
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 326649990000,
+      "node" : {
+        "text" : "QHR"
+      },
+      "directionIndex" : 120
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 326644655000,
+      "node" : {
+        "text" : "MVH"
+      },
+      "directionIndex" : 186
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 326133085000,
+      "node" : {
+        "text" : "KKX"
+      },
+      "directionIndex" : 240
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "363536247581" : {
+      "stepNumber" : 363536247581,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "363537546644" : {
+      "stepNumber" : 363537546644,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "363537565471" : {
+      "stepNumber" : 363537565471,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 363537528000,
+      "node" : {
+        "text" : "RNH"
+      },
+      "directionIndex" : 183
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 363537583000,
+      "node" : {
+        "text" : "VNF"
+      },
+      "directionIndex" : 107
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 362407659000,
+      "node" : {
+        "text" : "FPS"
+      },
+      "directionIndex" : 149
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 363535608000,
+      "node" : {
+        "text" : "HTS"
+      },
+      "directionIndex" : 256
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 363510412000,
+      "node" : {
+        "text" : "MTB"
+      },
+      "directionIndex" : 121
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 362982450000,
+      "node" : {
+        "text" : "LCN"
+      },
+      "directionIndex" : 29
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 2,
+  "stepsToCheck" : {
+    "400254639816" : {
+      "stepNumber" : 400254639816,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "400254658643" : {
+      "stepNumber" : 400254658643,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 400253669000,
+      "node" : {
+        "text" : "MHD"
+      },
+      "directionIndex" : 39
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 400254676000,
+      "node" : {
+        "text" : "PHM"
+      },
+      "directionIndex" : 216
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 399010998000,
+      "node" : {
+        "text" : "XKJ"
+      },
+      "directionIndex" : 116
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 400254629000,
+      "node" : {
+        "text" : "KPL"
+      },
+      "directionIndex" : 143
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 400218078000,
+      "node" : {
+        "text" : "RHQ"
+      },
+      "directionIndex" : 218
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 399636199000,
+      "node" : {
+        "text" : "LCN"
+      },
+      "directionIndex" : 1
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 2,
+  "stepsToCheck" : {
+    "436901545932" : {
+      "stepNumber" : 436901545932,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "436902920303" : {
+      "stepNumber" : 436902920303,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 436903265000,
+      "node" : {
+        "text" : "BLD"
+      },
+      "directionIndex" : 191
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 436903255000,
+      "node" : {
+        "text" : "QCM"
+      },
+      "directionIndex" : 26
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 435590281000,
+      "node" : {
+        "text" : "PFS"
+      },
+      "directionIndex" : 212
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 436901436000,
+      "node" : {
+        "text" : "GMX"
+      },
+      "directionIndex" : 220
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 436879310000,
+      "node" : {
+        "text" : "VQC"
+      },
+      "directionIndex" : 160
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 436242405000,
+      "node" : {
+        "text" : "MLX"
+      },
+      "directionIndex" : 206
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 15,
+  "stepsToCheck" : {
+    "473563852534" : {
+      "stepNumber" : 473563852534,
+      "positionIds" : [ 1, 3 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "473564040804" : {
+      "stepNumber" : 473564040804,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564059631" : {
+      "stepNumber" : 473564059631,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564078458" : {
+      "stepNumber" : 473564078458,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564097285" : {
+      "stepNumber" : 473564097285,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564116112" : {
+      "stepNumber" : 473564116112,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564134939" : {
+      "stepNumber" : 473564134939,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564153766" : {
+      "stepNumber" : 473564153766,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564172593" : {
+      "stepNumber" : 473564172593,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564191420" : {
+      "stepNumber" : 473564191420,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564210247" : {
+      "stepNumber" : 473564210247,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564229074" : {
+      "stepNumber" : 473564229074,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564247901" : {
+      "stepNumber" : 473564247901,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564266728" : {
+      "stepNumber" : 473564266728,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "473564285555" : {
+      "stepNumber" : 473564285555,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 473563374000,
+      "node" : {
+        "text" : "QPH"
+      },
+      "directionIndex" : 9
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 473564287000,
+      "node" : {
+        "text" : "SRJ"
+      },
+      "directionIndex" : 40
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 472144289000,
+      "node" : {
+        "text" : "RVP"
+      },
+      "directionIndex" : 134
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 473564035000,
+      "node" : {
+        "text" : "QFS"
+      },
+      "directionIndex" : 97
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 473546674000,
+      "node" : {
+        "text" : "DCC"
+      },
+      "directionIndex" : 120
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 472854342000,
+      "node" : {
+        "text" : "RDL"
+      },
+      "directionIndex" : 135
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 2,
+  "stepsToCheck" : {
+    "510717555919" : {
+      "stepNumber" : 510717555919,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "510717576432" : {
+      "stepNumber" : 510717576432,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 510717585000,
+      "node" : {
+        "text" : "BLB"
+      },
+      "directionIndex" : 138
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 510717550000,
+      "node" : {
+        "text" : "FKG"
+      },
+      "directionIndex" : 263
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 509217517000,
+      "node" : {
+        "text" : "GHJ"
+      },
+      "directionIndex" : 58
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 510713005000,
+      "node" : {
+        "text" : "XFB"
+      },
+      "directionIndex" : 157
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 510716289000,
+      "node" : {
+        "text" : "TKD"
+      },
+      "directionIndex" : 110
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 509973484000,
+      "node" : {
+        "text" : "GKK"
+      },
+      "directionIndex" : 64
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 8,
+  "stepsToCheck" : {
+    "547810273312" : {
+      "stepNumber" : 547810273312,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "547810292139" : {
+      "stepNumber" : 547810292139,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "547810310966" : {
+      "stepNumber" : 547810310966,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "547810329793" : {
+      "stepNumber" : 547810329793,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "547810348620" : {
+      "stepNumber" : 547810348620,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "547810367447" : {
+      "stepNumber" : 547810367447,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "547810386274" : {
+      "stepNumber" : 547810386274,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "547810405101" : {
+      "stepNumber" : 547810405101,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 547810265000,
+      "node" : {
+        "text" : "QNK"
+      },
+      "directionIndex" : 118
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 547810407000,
+      "node" : {
+        "text" : "PSH"
+      },
+      "directionIndex" : 213
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 546195411000,
+      "node" : {
+        "text" : "BJH"
+      },
+      "directionIndex" : 9
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 547809511000,
+      "node" : {
+        "text" : "BFV"
+      },
+      "directionIndex" : 41
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 547809238000,
+      "node" : {
+        "text" : "FPV"
+      },
+      "directionIndex" : 173
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 547007522000,
+      "node" : {
+        "text" : "VLJ"
+      },
+      "directionIndex" : 215
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "584876522753" : {
+      "stepNumber" : 584876522753,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "584876543266" : {
+      "stepNumber" : 584876543266,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "584876563779" : {
+      "stepNumber" : 584876563779,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 584876580000,
+      "node" : {
+        "text" : "TJJ"
+      },
+      "directionIndex" : 204
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 584876507000,
+      "node" : {
+        "text" : "JXP"
+      },
+      "directionIndex" : 264
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 583167042000,
+      "node" : {
+        "text" : "QJP"
+      },
+      "directionIndex" : 169
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 584874211000,
+      "node" : {
+        "text" : "NTH"
+      },
+      "directionIndex" : 34
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 584876054000,
+      "node" : {
+        "text" : "BPL"
+      },
+      "directionIndex" : 236
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 584012014000,
+      "node" : {
+        "text" : "HSJ"
+      },
+      "directionIndex" : 111
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 28,
+  "stepsToCheck" : {
+    "620942192171" : {
+      "stepNumber" : 620942192171,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "621761317287" : {
+      "stepNumber" : 621761317287,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "621761524384" : {
+      "stepNumber" : 621761524384,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761543211" : {
+      "stepNumber" : 621761543211,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761562038" : {
+      "stepNumber" : 621761562038,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761580865" : {
+      "stepNumber" : 621761580865,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761599692" : {
+      "stepNumber" : 621761599692,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761618519" : {
+      "stepNumber" : 621761618519,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761637346" : {
+      "stepNumber" : 621761637346,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761656173" : {
+      "stepNumber" : 621761656173,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761675000" : {
+      "stepNumber" : 621761675000,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761693827" : {
+      "stepNumber" : 621761693827,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761712654" : {
+      "stepNumber" : 621761712654,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761731481" : {
+      "stepNumber" : 621761731481,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761750308" : {
+      "stepNumber" : 621761750308,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761769135" : {
+      "stepNumber" : 621761769135,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761787962" : {
+      "stepNumber" : 621761787962,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761806789" : {
+      "stepNumber" : 621761806789,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761825616" : {
+      "stepNumber" : 621761825616,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761844443" : {
+      "stepNumber" : 621761844443,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761863270" : {
+      "stepNumber" : 621761863270,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761882097" : {
+      "stepNumber" : 621761882097,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761900924" : {
+      "stepNumber" : 621761900924,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761919751" : {
+      "stepNumber" : 621761919751,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761938578" : {
+      "stepNumber" : 621761938578,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761957405" : {
+      "stepNumber" : 621761957405,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761976232" : {
+      "stepNumber" : 621761976232,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "621761995059" : {
+      "stepNumber" : 621761995059,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 621761521000,
+      "node" : {
+        "text" : "VRJ"
+      },
+      "directionIndex" : 269
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 621762002000,
+      "node" : {
+        "text" : "STX"
+      },
+      "directionIndex" : 197
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 619935449000,
+      "node" : {
+        "text" : "HQS"
+      },
+      "directionIndex" : 25
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 621760600000,
+      "node" : {
+        "text" : "NKK"
+      },
+      "directionIndex" : 106
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 621758853000,
+      "node" : {
+        "text" : "VKF"
+      },
+      "directionIndex" : 83
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 620845831000,
+      "node" : {
+        "text" : "LPD"
+      },
+      "directionIndex" : 192
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 10,
+  "stepsToCheck" : {
+    "658292098467" : {
+      "stepNumber" : 658292098467,
+      "positionIds" : [ 1, 0, 3, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "658931651657" : {
+      "stepNumber" : 658931651657,
+      "positionIds" : [ 1, 3 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "658932743623" : {
+      "stepNumber" : 658932743623,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "658932762450" : {
+      "stepNumber" : 658932762450,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "658932781277" : {
+      "stepNumber" : 658932781277,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "658932800104" : {
+      "stepNumber" : 658932800104,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "658932818931" : {
+      "stepNumber" : 658932818931,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "658932837758" : {
+      "stepNumber" : 658932837758,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "658932856585" : {
+      "stepNumber" : 658932856585,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "658932875412" : {
+      "stepNumber" : 658932875412,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 658931112000,
+      "node" : {
+        "text" : "QQC"
+      },
+      "directionIndex" : 144
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 658932876000,
+      "node" : {
+        "text" : "VXP"
+      },
+      "directionIndex" : 26
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 656977635000,
+      "node" : {
+        "text" : "FPS"
+      },
+      "directionIndex" : 19
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 658932739000,
+      "node" : {
+        "text" : "RSN"
+      },
+      "directionIndex" : 154
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 658930265000,
+      "node" : {
+        "text" : "NVM"
+      },
+      "directionIndex" : 78
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 657963975000,
+      "node" : {
+        "text" : "LPF"
+      },
+      "directionIndex" : 233
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "695642004763" : {
+      "stepNumber" : 695642004763,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "696065311031" : {
+      "stepNumber" : 696065311031,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "696066685402" : {
+      "stepNumber" : 696066685402,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "696067834130" : {
+      "stepNumber" : 696067834130,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "696067854643" : {
+      "stepNumber" : 696067854643,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "696067875156" : {
+      "stepNumber" : 696067875156,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "696067895669" : {
+      "stepNumber" : 696067895669,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 696067903000,
+      "node" : {
+        "text" : "HQR"
+      },
+      "directionIndex" : 25
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 696067832000,
+      "node" : {
+        "text" : "TCK"
+      },
+      "directionIndex" : 118
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 693997229000,
+      "node" : {
+        "text" : "VFV"
+      },
+      "directionIndex" : 132
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 696065277000,
+      "node" : {
+        "text" : "MTV"
+      },
+      "directionIndex" : 251
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 696048513132,
+      "node" : {
+        "text" : "ZZZ"
+      },
+      "directionIndex" : 281
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 695025746000,
+      "node" : {
+        "text" : "PPJ"
+      },
+      "directionIndex" : 89
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 2,
+  "stepsToCheck" : {
+    "732883335750" : {
+      "stepNumber" : 732883335750,
+      "positionIds" : [ 1, 0, 3 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "732903602594" : {
+      "stepNumber" : 732903602594,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 732903615000,
+      "node" : {
+        "text" : "XJS"
+      },
+      "directionIndex" : 42
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 732903598000,
+      "node" : {
+        "text" : "LVQ"
+      },
+      "directionIndex" : 183
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 730721251000,
+      "node" : {
+        "text" : "XKJ"
+      },
+      "directionIndex" : 62
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 732903158000,
+      "node" : {
+        "text" : "SCJ"
+      },
+      "directionIndex" : 229
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 732871480000,
+      "node" : {
+        "text" : "BGT"
+      },
+      "directionIndex" : 202
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 731809497000,
+      "node" : {
+        "text" : "PPJ"
+      },
+      "directionIndex" : 221
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 1,
+  "stepsToCheck" : {
+    "770341817355" : {
+      "stepNumber" : 770341817355,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 770924710000,
+      "node" : {
+        "text" : "HVC"
+      },
+      "directionIndex" : 14
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 770924710000,
+      "node" : {
+        "text" : "FLV"
+      },
+      "directionIndex" : 14
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 768628773000,
+      "node" : {
+        "text" : "FBQ"
+      },
+      "directionIndex" : 209
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 770924591000,
+      "node" : {
+        "text" : "LDQ"
+      },
+      "directionIndex" : 158
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 770886371000,
+      "node" : {
+        "text" : "FQR"
+      },
+      "directionIndex" : 92
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 769776779000,
+      "node" : {
+        "text" : "JQJ"
+      },
+      "directionIndex" : 98
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "806769554992" : {
+      "stepNumber" : 806769554992,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "806769577191" : {
+      "stepNumber" : 806769577191,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "806769599390" : {
+      "stepNumber" : 806769599390,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 806769543000,
+      "node" : {
+        "text" : "DRK"
+      },
+      "directionIndex" : 91
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 806768328000,
+      "node" : {
+        "text" : "GQH"
+      },
+      "directionIndex" : 135
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 804356980000,
+      "node" : {
+        "text" : "MJX"
+      },
+      "directionIndex" : 245
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 806769610000,
+      "node" : {
+        "text" : "FSC"
+      },
+      "directionIndex" : 213
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 806758037000,
+      "node" : {
+        "text" : "GHN"
+      },
+      "directionIndex" : 198
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 805579360000,
+      "node" : {
+        "text" : "NTM"
+      },
+      "directionIndex" : 178
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 0,
+  "stepsToCheck" : { },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 843124682000,
+      "node" : {
+        "text" : "CMM"
+      },
+      "directionIndex" : 52
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 843124597000,
+      "node" : {
+        "text" : "RQN"
+      },
+      "directionIndex" : 195
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 840603977000,
+      "node" : {
+        "text" : "DGF"
+      },
+      "directionIndex" : 213
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 843116580000,
+      "node" : {
+        "text" : "VLV"
+      },
+      "directionIndex" : 125
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 843124674000,
+      "node" : {
+        "text" : "CKS"
+      },
+      "directionIndex" : 201
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 841884154000,
+      "node" : {
+        "text" : "KKX"
+      },
+      "directionIndex" : 223
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 10,
+  "stepsToCheck" : {
+    "877722797956" : {
+      "stepNumber" : 877722797956,
+      "positionIds" : [ 0, 4, 1, 3, 5 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "SLZ"
+      } ]
+    },
+    "879464126013" : {
+      "stepNumber" : 879464126013,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "879465008072" : {
+      "stepNumber" : 879465008072,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "879465028585" : {
+      "stepNumber" : 879465028585,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "879465049098" : {
+      "stepNumber" : 879465049098,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "879465069611" : {
+      "stepNumber" : 879465069611,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "879465090124" : {
+      "stepNumber" : 879465090124,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "879465110637" : {
+      "stepNumber" : 879465110637,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "879465131150" : {
+      "stepNumber" : 879465131150,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "879465151663" : {
+      "stepNumber" : 879465151663,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 879465165000,
+      "node" : {
+        "text" : "BXS"
+      },
+      "directionIndex" : 130
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 879465004000,
+      "node" : {
+        "text" : "JLP"
+      },
+      "directionIndex" : 143
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 876835750000,
+      "node" : {
+        "text" : "QVQ"
+      },
+      "directionIndex" : 199
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 879463256000,
+      "node" : {
+        "text" : "TLD"
+      },
+      "directionIndex" : 244
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 879461454000,
+      "node" : {
+        "text" : "VQC"
+      },
+      "directionIndex" : 16
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 878180465000,
+      "node" : {
+        "text" : "KPP"
+      },
+      "directionIndex" : 96
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 4,
+  "stepsToCheck" : {
+    "915072704252" : {
+      "stepNumber" : 915072704252,
+      "positionIds" : [ 1, 4, 0, 3 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "ZZZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "915683089080" : {
+      "stepNumber" : 915683089080,
+      "positionIds" : [ 0, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "915683150619" : {
+      "stepNumber" : 915683150619,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "915683171132" : {
+      "stepNumber" : 915683171132,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 915683181000,
+      "node" : {
+        "text" : "DPQ"
+      },
+      "directionIndex" : 33
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 915682597000,
+      "node" : {
+        "text" : "VKN"
+      },
+      "directionIndex" : 232
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 912945764000,
+      "node" : {
+        "text" : "MJX"
+      },
+      "directionIndex" : 171
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 915666606000,
+      "node" : {
+        "text" : "GBX"
+      },
+      "directionIndex" : 99
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 915683142000,
+      "node" : {
+        "text" : "BGT"
+      },
+      "directionIndex" : 92
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 914355234000,
+      "node" : {
+        "text" : "RDL"
+      },
+      "directionIndex" : 23
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "951707958141" : {
+      "stepNumber" : 951707958141,
+      "positionIds" : [ 0, 3 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "951708388914" : {
+      "stepNumber" : 951708388914,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "951708409427" : {
+      "stepNumber" : 951708409427,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "951708429940" : {
+      "stepNumber" : 951708429940,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "951708450453" : {
+      "stepNumber" : 951708450453,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "951708470966" : {
+      "stepNumber" : 951708470966,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "951708491479" : {
+      "stepNumber" : 951708491479,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 951708509000,
+      "node" : {
+        "text" : "RXT"
+      },
+      "directionIndex" : 99
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 951707182000,
+      "node" : {
+        "text" : "PMP"
+      },
+      "directionIndex" : 262
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 948868207000,
+      "node" : {
+        "text" : "TDG"
+      },
+      "directionIndex" : 15
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 951708380000,
+      "node" : {
+        "text" : "KRH"
+      },
+      "directionIndex" : 78
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 951707780268,
+      "node" : {
+        "text" : "ZZZ"
+      },
+      "directionIndex" : 281
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 950346976000,
+      "node" : {
+        "text" : "JHX"
+      },
+      "directionIndex" : 52
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "987393217065" : {
+      "stepNumber" : 987393217065,
+      "positionIds" : [ 1, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "987393235892" : {
+      "stepNumber" : 987393235892,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "987393254719" : {
+      "stepNumber" : 987393254719,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "987393273546" : {
+      "stepNumber" : 987393273546,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "987393292373" : {
+      "stepNumber" : 987393292373,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "987393311200" : {
+      "stepNumber" : 987393311200,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "987393330027" : {
+      "stepNumber" : 987393330027,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 987392610000,
+      "node" : {
+        "text" : "NFS"
+      },
+      "directionIndex" : 176
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 987393334000,
+      "node" : {
+        "text" : "MFR"
+      },
+      "directionIndex" : 39
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 984456796000,
+      "node" : {
+        "text" : "MJX"
+      },
+      "directionIndex" : 273
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 987392332000,
+      "node" : {
+        "text" : "HKK"
+      },
+      "directionIndex" : 85
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 987393223000,
+      "node" : {
+        "text" : "QBJ"
+      },
+      "directionIndex" : 34
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 985971935000,
+      "node" : {
+        "text" : "QDP"
+      },
+      "directionIndex" : 199
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 8,
+  "stepsToCheck" : {
+    "1022453684853" : {
+      "stepNumber" : 1022453684853,
+      "positionIds" : [ 0, 1, 4, 3 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "ZZZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "1023201926314" : {
+      "stepNumber" : 1023201926314,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1023201945141" : {
+      "stepNumber" : 1023201945141,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1023201963968" : {
+      "stepNumber" : 1023201963968,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1023201982795" : {
+      "stepNumber" : 1023201982795,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1023202001622" : {
+      "stepNumber" : 1023202001622,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1023202020449" : {
+      "stepNumber" : 1023202020449,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1023202039276" : {
+      "stepNumber" : 1023202039276,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1023201844000,
+      "node" : {
+        "text" : "CPR"
+      },
+      "directionIndex" : 19
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1023202051000,
+      "node" : {
+        "text" : "NHP"
+      },
+      "directionIndex" : 203
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1020149350000,
+      "node" : {
+        "text" : "QTF"
+      },
+      "directionIndex" : 27
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1023198820000,
+      "node" : {
+        "text" : "BTR"
+      },
+      "directionIndex" : 141
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1023201924000,
+      "node" : {
+        "text" : "BJV"
+      },
+      "directionIndex" : 215
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1021733572000,
+      "node" : {
+        "text" : "QKP"
+      },
+      "directionIndex" : 227
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "1058892496138" : {
+      "stepNumber" : 1058892496138,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1058892514965" : {
+      "stepNumber" : 1058892514965,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1058892533792" : {
+      "stepNumber" : 1058892533792,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1058892552619" : {
+      "stepNumber" : 1058892552619,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1058892571446" : {
+      "stepNumber" : 1058892571446,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1058892590273" : {
+      "stepNumber" : 1058892590273,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1058892609100" : {
+      "stepNumber" : 1058892609100,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1058891451000,
+      "node" : {
+        "text" : "XLV"
+      },
+      "directionIndex" : 182
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1058892626000,
+      "node" : {
+        "text" : "TLV"
+      },
+      "directionIndex" : 40
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1055734657000,
+      "node" : {
+        "text" : "PKP"
+      },
+      "directionIndex" : 84
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1058892494000,
+      "node" : {
+        "text" : "TSF"
+      },
+      "directionIndex" : 110
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1058892445000,
+      "node" : {
+        "text" : "BPL"
+      },
+      "directionIndex" : 4
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1057343645000,
+      "node" : {
+        "text" : "QJV"
+      },
+      "directionIndex" : 68
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 1,
+  "stepsToCheck" : {
+    "1094535171760" : {
+      "stepNumber" : 1094535171760,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1094534881000,
+      "node" : {
+        "text" : "GCS"
+      },
+      "directionIndex" : 75
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1094535165000,
+      "node" : {
+        "text" : "QRG"
+      },
+      "directionIndex" : 265
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1091270950000,
+      "node" : {
+        "text" : "JMR"
+      },
+      "directionIndex" : 128
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1094532267000,
+      "node" : {
+        "text" : "FCX"
+      },
+      "directionIndex" : 218
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1094535173000,
+      "node" : {
+        "text" : "CCH"
+      },
+      "directionIndex" : 116
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1092918651000,
+      "node" : {
+        "text" : "RMV"
+      },
+      "directionIndex" : 23
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "1129834665454" : {
+      "stepNumber" : 1129834665454,
+      "positionIds" : [ 1, 0, 4, 3 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "1130470794097" : {
+      "stepNumber" : 1130470794097,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1130470814610" : {
+      "stepNumber" : 1130470814610,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1130470830000,
+      "node" : {
+        "text" : "DBR"
+      },
+      "directionIndex" : 216
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1130470794000,
+      "node" : {
+        "text" : "HGS"
+      },
+      "directionIndex" : 184
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1127104688000,
+      "node" : {
+        "text" : "QLX"
+      },
+      "directionIndex" : 209
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1130468525000,
+      "node" : {
+        "text" : "SCJ"
+      },
+      "directionIndex" : 259
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1130470623000,
+      "node" : {
+        "text" : "KQM"
+      },
+      "directionIndex" : 32
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1128798595000,
+      "node" : {
+        "text" : "NTM"
+      },
+      "directionIndex" : 150
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "1166019105142" : {
+      "stepNumber" : 1166019105142,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1166020385378" : {
+      "stepNumber" : 1166020385378,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1166020404205" : {
+      "stepNumber" : 1166020404205,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1166020382000,
+      "node" : {
+        "text" : "TJJ"
+      },
+      "directionIndex" : 275
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1166020416000,
+      "node" : {
+        "text" : "LPP"
+      },
+      "directionIndex" : 274
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1162553601000,
+      "node" : {
+        "text" : "SRV"
+      },
+      "directionIndex" : 13
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1166017739000,
+      "node" : {
+        "text" : "GFM"
+      },
+      "directionIndex" : 80
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1165998599000,
+      "node" : {
+        "text" : "DHQ"
+      },
+      "directionIndex" : 114
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1164302783000,
+      "node" : {
+        "text" : "BVJ"
+      },
+      "directionIndex" : 6
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 6,
+  "stepsToCheck" : {
+    "1199865739759" : {
+      "stepNumber" : 1199865739759,
+      "positionIds" : [ 1, 3, 0, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1201494369394" : {
+      "stepNumber" : 1201494369394,
+      "positionIds" : [ 1, 3, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1201496082651" : {
+      "stepNumber" : 1201496082651,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1201496101478" : {
+      "stepNumber" : 1201496101478,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1201496120305" : {
+      "stepNumber" : 1201496120305,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1201496139132" : {
+      "stepNumber" : 1201496139132,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1201496031000,
+      "node" : {
+        "text" : "QQT"
+      },
+      "directionIndex" : 53
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1201496140000,
+      "node" : {
+        "text" : "RQN"
+      },
+      "directionIndex" : 25
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1197927338000,
+      "node" : {
+        "text" : "RDH"
+      },
+      "directionIndex" : 28
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1201496064000,
+      "node" : {
+        "text" : "DFQ"
+      },
+      "directionIndex" : 176
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1201461235000,
+      "node" : {
+        "text" : "LNV"
+      },
+      "directionIndex" : 2
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1199708844000,
+      "node" : {
+        "text" : "KGC"
+      },
+      "directionIndex" : 29
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 4,
+  "stepsToCheck" : {
+    "1237166168699" : {
+      "stepNumber" : 1237166168699,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1237167543070" : {
+      "stepNumber" : 1237167543070,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1237168363590" : {
+      "stepNumber" : 1237168363590,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1237168384103" : {
+      "stepNumber" : 1237168384103,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1237168385000,
+      "node" : {
+        "text" : "KDX"
+      },
+      "directionIndex" : 54
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1237168347000,
+      "node" : {
+        "text" : "RQN"
+      },
+      "directionIndex" : 270
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1233485556000,
+      "node" : {
+        "text" : "FBQ"
+      },
+      "directionIndex" : 47
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1237165174000,
+      "node" : {
+        "text" : "KBF"
+      },
+      "directionIndex" : 41
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1237122987000,
+      "node" : {
+        "text" : "FQR"
+      },
+      "directionIndex" : 133
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1235317713000,
+      "node" : {
+        "text" : "BXD"
+      },
+      "directionIndex" : 236
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 6,
+  "stepsToCheck" : {
+    "1273154073334" : {
+      "stepNumber" : 1273154073334,
+      "positionIds" : [ 0, 3, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1273180740234" : {
+      "stepNumber" : 1273180740234,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1273180760747" : {
+      "stepNumber" : 1273180760747,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1273180781260" : {
+      "stepNumber" : 1273180781260,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1273180801773" : {
+      "stepNumber" : 1273180801773,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1273180822286" : {
+      "stepNumber" : 1273180822286,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1273180835000,
+      "node" : {
+        "text" : "SXC"
+      },
+      "directionIndex" : 69
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1273180585000,
+      "node" : {
+        "text" : "JCK"
+      },
+      "directionIndex" : 159
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1269387221000,
+      "node" : {
+        "text" : "KFV"
+      },
+      "directionIndex" : 155
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1273180730000,
+      "node" : {
+        "text" : "VLV"
+      },
+      "directionIndex" : 163
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1273148536000,
+      "node" : {
+        "text" : "DHQ"
+      },
+      "directionIndex" : 52
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1271267653000,
+      "node" : {
+        "text" : "HCC"
+      },
+      "directionIndex" : 106
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 1,
+  "stepsToCheck" : {
+    "1309691443964" : {
+      "stepNumber" : 1309691443964,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1309691439187,
+      "node" : {
+        "text" : "QCZ"
+      },
+      "directionIndex" : 281
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1309691446000,
+      "node" : {
+        "text" : "DTC"
+      },
+      "directionIndex" : 69
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1305780129000,
+      "node" : {
+        "text" : "KSX"
+      },
+      "directionIndex" : 187
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1309691215000,
+      "node" : {
+        "text" : "TJH"
+      },
+      "directionIndex" : 51
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1309667350000,
+      "node" : {
+        "text" : "HNG"
+      },
+      "directionIndex" : 100
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1307720441000,
+      "node" : {
+        "text" : "QKP"
+      },
+      "directionIndex" : 162
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 12,
+  "stepsToCheck" : {
+    "1344596626656" : {
+      "stepNumber" : 1344596626656,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1345682379746" : {
+      "stepNumber" : 1345682379746,
+      "positionIds" : [ 0, 1, 3 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "1345701620940" : {
+      "stepNumber" : 1345701620940,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1345702995311" : {
+      "stepNumber" : 1345702995311,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1345704332028" : {
+      "stepNumber" : 1345704332028,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1345704350855" : {
+      "stepNumber" : 1345704350855,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1345704369682" : {
+      "stepNumber" : 1345704369682,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1345704388509" : {
+      "stepNumber" : 1345704388509,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1345704407336" : {
+      "stepNumber" : 1345704407336,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1345704426163" : {
+      "stepNumber" : 1345704426163,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1345704444990" : {
+      "stepNumber" : 1345704444990,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1345704463817" : {
+      "stepNumber" : 1345704463817,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1345704319000,
+      "node" : {
+        "text" : "QQT"
+      },
+      "directionIndex" : 179
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1345704473000,
+      "node" : {
+        "text" : "FSD"
+      },
+      "directionIndex" : 191
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1341699037000,
+      "node" : {
+        "text" : "VBN"
+      },
+      "directionIndex" : 11
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1345700528000,
+      "node" : {
+        "text" : "RDS"
+      },
+      "directionIndex" : 150
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1345681949000,
+      "node" : {
+        "text" : "KQF"
+      },
+      "directionIndex" : 27
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1343704084000,
+      "node" : {
+        "text" : "FVX"
+      },
+      "directionIndex" : 173
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 5,
+  "stepsToCheck" : {
+    "1381417400117" : {
+      "stepNumber" : 1381417400117,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1381418774488" : {
+      "stepNumber" : 1381418774488,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1381418849796" : {
+      "stepNumber" : 1381418849796,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1381418868623" : {
+      "stepNumber" : 1381418868623,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1381418887450" : {
+      "stepNumber" : 1381418887450,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1381418831000,
+      "node" : {
+        "text" : "LBH"
+      },
+      "directionIndex" : 31
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1381418905000,
+      "node" : {
+        "text" : "RBN"
+      },
+      "directionIndex" : 128
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1377285243000,
+      "node" : {
+        "text" : "NRB"
+      },
+      "directionIndex" : 149
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1381417383000,
+      "node" : {
+        "text" : "JXD"
+      },
+      "directionIndex" : 24
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1381412820000,
+      "node" : {
+        "text" : "RGB"
+      },
+      "directionIndex" : 183
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1379361634000,
+      "node" : {
+        "text" : "BCC"
+      },
+      "directionIndex" : 97
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 4,
+  "stepsToCheck" : {
+    "1414431165908" : {
+      "stepNumber" : 1414431165908,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1414432540279" : {
+      "stepNumber" : 1414432540279,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1414433914650" : {
+      "stepNumber" : 1414433914650,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1414435063097" : {
+      "stepNumber" : 1414435063097,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1414435051000,
+      "node" : {
+        "text" : "CXG"
+      },
+      "directionIndex" : 267
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1414435081000,
+      "node" : {
+        "text" : "GRH"
+      },
+      "directionIndex" : 200
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1410178830000,
+      "node" : {
+        "text" : "SXR"
+      },
+      "directionIndex" : 281
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1414430585000,
+      "node" : {
+        "text" : "JXF"
+      },
+      "directionIndex" : 200
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1414418777000,
+      "node" : {
+        "text" : "KRS"
+      },
+      "directionIndex" : 101
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1412331561000,
+      "node" : {
+        "text" : "PXS"
+      },
+      "directionIndex" : 116
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "1447308868970" : {
+      "stepNumber" : 1447308868970,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1447872304599" : {
+      "stepNumber" : 1447872304599,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1447872323426" : {
+      "stepNumber" : 1447872323426,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1447872295000,
+      "node" : {
+        "text" : "LVD"
+      },
+      "directionIndex" : 236
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1447872324000,
+      "node" : {
+        "text" : "MPH"
+      },
+      "directionIndex" : 12
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1443505150000,
+      "node" : {
+        "text" : "JXM"
+      },
+      "directionIndex" : 157
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1447872112000,
+      "node" : {
+        "text" : "FGX"
+      },
+      "directionIndex" : 167
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1447859550000,
+      "node" : {
+        "text" : "VXF"
+      },
+      "directionIndex" : 272
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1445725153000,
+      "node" : {
+        "text" : "BVJ"
+      },
+      "directionIndex" : 30
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 4,
+  "stepsToCheck" : {
+    "1479990036979" : {
+      "stepNumber" : 1479990036979,
+      "positionIds" : [ 1, 3, 0, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1481143134248" : {
+      "stepNumber" : 1481143134248,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1481143647073" : {
+      "stepNumber" : 1481143647073,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1481143667586" : {
+      "stepNumber" : 1481143667586,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1481143684000,
+      "node" : {
+        "text" : "GCS"
+      },
+      "directionIndex" : 116
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1481143633000,
+      "node" : {
+        "text" : "PHM"
+      },
+      "directionIndex" : 258
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1476690073000,
+      "node" : {
+        "text" : "GSG"
+      },
+      "directionIndex" : 266
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1481142137000,
+      "node" : {
+        "text" : "XSD"
+      },
+      "directionIndex" : 21
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1481138084000,
+      "node" : {
+        "text" : "FPV"
+      },
+      "directionIndex" : 165
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1478945264000,
+      "node" : {
+        "text" : "LPF"
+      },
+      "directionIndex" : 195
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 6,
+  "stepsToCheck" : {
+    "1512671204988" : {
+      "stepNumber" : 1512671204988,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1514016714197" : {
+      "stepNumber" : 1514016714197,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1514017883438" : {
+      "stepNumber" : 1514017883438,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1514017903951" : {
+      "stepNumber" : 1514017903951,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1514017924464" : {
+      "stepNumber" : 1514017924464,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1514017944977" : {
+      "stepNumber" : 1514017944977,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1514017965000,
+      "node" : {
+        "text" : "JKJ"
+      },
+      "directionIndex" : 72
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1514017874000,
+      "node" : {
+        "text" : "QXB"
+      },
+      "directionIndex" : 116
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1509472546000,
+      "node" : {
+        "text" : "RJJ"
+      },
+      "directionIndex" : 261
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1514016614000,
+      "node" : {
+        "text" : "SMG"
+      },
+      "directionIndex" : 120
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1514005275000,
+      "node" : {
+        "text" : "TKD"
+      },
+      "directionIndex" : 32
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1511764082000,
+      "node" : {
+        "text" : "GQT"
+      },
+      "directionIndex" : 88
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "1545352372997" : {
+      "stepNumber" : 1545352372997,
+      "positionIds" : [ 1, 0, 3, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1547009864423" : {
+      "stepNumber" : 1547009864423,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1547011238794" : {
+      "stepNumber" : 1547011238794,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1547011649054" : {
+      "stepNumber" : 1547011649054,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1547011669567" : {
+      "stepNumber" : 1547011669567,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1547011690080" : {
+      "stepNumber" : 1547011690080,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1547011710593" : {
+      "stepNumber" : 1547011710593,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1547011714000,
+      "node" : {
+        "text" : "VKD"
+      },
+      "directionIndex" : 35
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1547011640000,
+      "node" : {
+        "text" : "MLH"
+      },
+      "directionIndex" : 219
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1542364469000,
+      "node" : {
+        "text" : "HCQ"
+      },
+      "directionIndex" : 194
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1547008727000,
+      "node" : {
+        "text" : "CGP"
+      },
+      "directionIndex" : 65
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1546991879018,
+      "node" : {
+        "text" : "ZZZ"
+      },
+      "directionIndex" : 281
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1544727447000,
+      "node" : {
+        "text" : "HQQ"
+      },
+      "directionIndex" : 19
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 4,
+  "stepsToCheck" : {
+    "1578033541006" : {
+      "stepNumber" : 1578033541006,
+      "positionIds" : [ 1, 0, 3, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1580137703007" : {
+      "stepNumber" : 1580137703007,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1580139077378" : {
+      "stepNumber" : 1580139077378,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1580140144054" : {
+      "stepNumber" : 1580140144054,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1580140149000,
+      "node" : {
+        "text" : "HVC"
+      },
+      "directionIndex" : 169
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1580140124000,
+      "node" : {
+        "text" : "FLV"
+      },
+      "directionIndex" : 178
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1575393957000,
+      "node" : {
+        "text" : "QJP"
+      },
+      "directionIndex" : 172
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1580137423000,
+      "node" : {
+        "text" : "GBX"
+      },
+      "directionIndex" : 150
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1580111831000,
+      "node" : {
+        "text" : "MDX"
+      },
+      "directionIndex" : 225
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1577792373000,
+      "node" : {
+        "text" : "CHL"
+      },
+      "directionIndex" : 244
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "1610714709015" : {
+      "stepNumber" : 1610714709015,
+      "positionIds" : [ 1, 0, 3, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1612993169977" : {
+      "stepNumber" : 1612993169977,
+      "positionIds" : [ 0, 3 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "1612993682802" : {
+      "stepNumber" : 1612993682802,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1612993703000,
+      "node" : {
+        "text" : "STT"
+      },
+      "directionIndex" : 247
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1612993083000,
+      "node" : {
+        "text" : "KHR"
+      },
+      "directionIndex" : 133
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1608145771047,
+      "node" : {
+        "text" : "PFZ"
+      },
+      "directionIndex" : 281
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1612993679000,
+      "node" : {
+        "text" : "QQV"
+      },
+      "directionIndex" : 132
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1612974977000,
+      "node" : {
+        "text" : "FRV"
+      },
+      "directionIndex" : 87
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1610597565000,
+      "node" : {
+        "text" : "MLX"
+      },
+      "directionIndex" : 108
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 5,
+  "stepsToCheck" : {
+    "1647183643500" : {
+      "stepNumber" : 1647183643500,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1647185017871" : {
+      "stepNumber" : 1647185017871,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1647186015702" : {
+      "stepNumber" : 1647186015702,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1647186034529" : {
+      "stepNumber" : 1647186034529,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1647186053356" : {
+      "stepNumber" : 1647186053356,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1647185999000,
+      "node" : {
+        "text" : "QHT"
+      },
+      "directionIndex" : 158
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1647186068000,
+      "node" : {
+        "text" : "SRJ"
+      },
+      "directionIndex" : 32
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1642233590000,
+      "node" : {
+        "text" : "BJH"
+      },
+      "directionIndex" : 69
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1647182485000,
+      "node" : {
+        "text" : "QVF"
+      },
+      "directionIndex" : 63
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1647166035000,
+      "node" : {
+        "text" : "BPT"
+      },
+      "directionIndex" : 84
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1644743567000,
+      "node" : {
+        "text" : "LGG"
+      },
+      "directionIndex" : 207
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "1680745783320" : {
+      "stepNumber" : 1680745783320,
+      "positionIds" : [ 1, 0, 3, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1681335388479" : {
+      "stepNumber" : 1681335388479,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1681336762850" : {
+      "stepNumber" : 1681336762850,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1681337854816" : {
+      "stepNumber" : 1681337854816,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1681337873643" : {
+      "stepNumber" : 1681337873643,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1681337892470" : {
+      "stepNumber" : 1681337892470,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1681337911297" : {
+      "stepNumber" : 1681337911297,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1681337854000,
+      "node" : {
+        "text" : "NGG"
+      },
+      "directionIndex" : 27
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1681337918000,
+      "node" : {
+        "text" : "LPP"
+      },
+      "directionIndex" : 240
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1676286060000,
+      "node" : {
+        "text" : "QGN"
+      },
+      "directionIndex" : 142
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1681334160000,
+      "node" : {
+        "text" : "GRG"
+      },
+      "directionIndex" : 53
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1681331209000,
+      "node" : {
+        "text" : "BGT"
+      },
+      "directionIndex" : 115
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1678842948000,
+      "node" : {
+        "text" : "CFG"
+      },
+      "directionIndex" : 16
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 2,
+  "stepsToCheck" : {
+    "1713426951329" : {
+      "stepNumber" : 1713426951329,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1715694588171" : {
+      "stepNumber" : 1715694588171,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1715694572000,
+      "node" : {
+        "text" : "CSC"
+      },
+      "directionIndex" : 127
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1715694605000,
+      "node" : {
+        "text" : "JHT"
+      },
+      "directionIndex" : 250
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1710534721000,
+      "node" : {
+        "text" : "MPR"
+      },
+      "directionIndex" : 106
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1715693719000,
+      "node" : {
+        "text" : "DSM"
+      },
+      "directionIndex" : 243
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1715689123000,
+      "node" : {
+        "text" : "KQF"
+      },
+      "directionIndex" : 279
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1713144254000,
+      "node" : {
+        "text" : "LFS"
+      },
+      "directionIndex" : 192
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 2,
+  "stepsToCheck" : {
+    "1750776857625" : {
+      "stepNumber" : 1750776857625,
+      "positionIds" : [ 1, 3, 0, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1751921468132" : {
+      "stepNumber" : 1751921468132,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1751925663000,
+      "node" : {
+        "text" : "DKF"
+      },
+      "directionIndex" : 100
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1751925015000,
+      "node" : {
+        "text" : "TLV"
+      },
+      "directionIndex" : 86
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1746680259000,
+      "node" : {
+        "text" : "NRB"
+      },
+      "directionIndex" : 58
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1751925674000,
+      "node" : {
+        "text" : "HJL"
+      },
+      "directionIndex" : 141
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1751921468132,
+      "node" : {
+        "text" : "ZZZ"
+      },
+      "directionIndex" : 281
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1749343668000,
+      "node" : {
+        "text" : "CJD"
+      },
+      "directionIndex" : 14
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "1788126763921" : {
+      "stepNumber" : 1788126763921,
+      "positionIds" : [ 0, 1, 4, 3 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "ZZZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "1788993827918" : {
+      "stepNumber" : 1788993827918,
+      "positionIds" : [ 4, 0 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1788994419985" : {
+      "stepNumber" : 1788994419985,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1788994432068" : {
+      "stepNumber" : 1788994432068,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1788994444151" : {
+      "stepNumber" : 1788994444151,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1788994456234" : {
+      "stepNumber" : 1788994456234,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1788994468317" : {
+      "stepNumber" : 1788994468317,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1788994418000,
+      "node" : {
+        "text" : "TRH"
+      },
+      "directionIndex" : 263
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1788993579000,
+      "node" : {
+        "text" : "QXB"
+      },
+      "directionIndex" : 48
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1783638962000,
+      "node" : {
+        "text" : "RFL"
+      },
+      "directionIndex" : 185
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1788989197000,
+      "node" : {
+        "text" : "JMC"
+      },
+      "directionIndex" : 243
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1788994474000,
+      "node" : {
+        "text" : "HCP"
+      },
+      "directionIndex" : 63
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1786380575000,
+      "node" : {
+        "text" : "JQJ"
+      },
+      "directionIndex" : 155
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 13,
+  "stepsToCheck" : {
+    "1825476670217" : {
+      "stepNumber" : 1825476670217,
+      "positionIds" : [ 1, 0, 4, 3 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "1825593491752" : {
+      "stepNumber" : 1825593491752,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1825593737908" : {
+      "stepNumber" : 1825593737908,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1825593758421" : {
+      "stepNumber" : 1825593758421,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1825593778934" : {
+      "stepNumber" : 1825593778934,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1825593799447" : {
+      "stepNumber" : 1825593799447,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1825593819960" : {
+      "stepNumber" : 1825593819960,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1825593840473" : {
+      "stepNumber" : 1825593840473,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1825593860986" : {
+      "stepNumber" : 1825593860986,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1825593881499" : {
+      "stepNumber" : 1825593881499,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1825593902012" : {
+      "stepNumber" : 1825593902012,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1825593922525" : {
+      "stepNumber" : 1825593922525,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1825593943038" : {
+      "stepNumber" : 1825593943038,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1825593955000,
+      "node" : {
+        "text" : "RKJ"
+      },
+      "directionIndex" : 160
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1825593729000,
+      "node" : {
+        "text" : "DPF"
+      },
+      "directionIndex" : 84
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1820121790000,
+      "node" : {
+        "text" : "JTF"
+      },
+      "directionIndex" : 217
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1825588457000,
+      "node" : {
+        "text" : "HQH"
+      },
+      "directionIndex" : 206
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1825592535000,
+      "node" : {
+        "text" : "DCC"
+      },
+      "directionIndex" : 53
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1822932182000,
+      "node" : {
+        "text" : "HPX"
+      },
+      "directionIndex" : 222
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 10,
+  "stepsToCheck" : {
+    "1858157838226" : {
+      "stepNumber" : 1858157838226,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1859331551060" : {
+      "stepNumber" : 1859331551060,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1859332925431" : {
+      "stepNumber" : 1859332925431,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1859333414933" : {
+      "stepNumber" : 1859333414933,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1859333433760" : {
+      "stepNumber" : 1859333433760,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1859333452587" : {
+      "stepNumber" : 1859333452587,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1859333471414" : {
+      "stepNumber" : 1859333471414,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1859333490241" : {
+      "stepNumber" : 1859333490241,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1859333509068" : {
+      "stepNumber" : 1859333509068,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1859333527895" : {
+      "stepNumber" : 1859333527895,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1859333410000,
+      "node" : {
+        "text" : "VMV"
+      },
+      "directionIndex" : 125
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1859333532000,
+      "node" : {
+        "text" : "QRG"
+      },
+      "directionIndex" : 171
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1853745104427,
+      "node" : {
+        "text" : "PFZ"
+      },
+      "directionIndex" : 281
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1859331095000,
+      "node" : {
+        "text" : "XSD"
+      },
+      "directionIndex" : 3
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1859320296000,
+      "node" : {
+        "text" : "VDX"
+      },
+      "directionIndex" : 114
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1856616966000,
+      "node" : {
+        "text" : "BVJ"
+      },
+      "directionIndex" : 266
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "1894432514601" : {
+      "stepNumber" : 1894432514601,
+      "positionIds" : [ 4, 0 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1894433396660" : {
+      "stepNumber" : 1894433396660,
+      "positionIds" : [ 4, 0 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1894434278719" : {
+      "stepNumber" : 1894434278719,
+      "positionIds" : [ 4, 0 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "1894434411632" : {
+      "stepNumber" : 1894434411632,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1894434423715" : {
+      "stepNumber" : 1894434423715,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1894434435798" : {
+      "stepNumber" : 1894434435798,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    },
+    "1894434447881" : {
+      "stepNumber" : 1894434447881,
+      "positionIds" : [ 4 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1894434411000,
+      "node" : {
+        "text" : "DJD"
+      },
+      "directionIndex" : 211
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1894432118000,
+      "node" : {
+        "text" : "QJN"
+      },
+      "directionIndex" : 171
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1888722130000,
+      "node" : {
+        "text" : "QDN"
+      },
+      "directionIndex" : 173
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1894424404000,
+      "node" : {
+        "text" : "RSN"
+      },
+      "directionIndex" : 183
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1894434456000,
+      "node" : {
+        "text" : "KKN"
+      },
+      "directionIndex" : 251
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1891671626000,
+      "node" : {
+        "text" : "QLT"
+      },
+      "directionIndex" : 186
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 13,
+  "stepsToCheck" : {
+    "1928188912531" : {
+      "stepNumber" : 1928188912531,
+      "positionIds" : [ 4, 1, 0, 3 ],
+      "nodes" : [ {
+        "text" : "ZZZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "1929628537913" : {
+      "stepNumber" : 1929628537913,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628556740" : {
+      "stepNumber" : 1929628556740,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628575567" : {
+      "stepNumber" : 1929628575567,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628594394" : {
+      "stepNumber" : 1929628594394,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628613221" : {
+      "stepNumber" : 1929628613221,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628632048" : {
+      "stepNumber" : 1929628632048,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628650875" : {
+      "stepNumber" : 1929628650875,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628669702" : {
+      "stepNumber" : 1929628669702,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628688529" : {
+      "stepNumber" : 1929628688529,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628707356" : {
+      "stepNumber" : 1929628707356,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628726183" : {
+      "stepNumber" : 1929628726183,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "1929628745010" : {
+      "stepNumber" : 1929628745010,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1929628529000,
+      "node" : {
+        "text" : "HQF"
+      },
+      "directionIndex" : 79
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1929628759000,
+      "node" : {
+        "text" : "QJN"
+      },
+      "directionIndex" : 221
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1923805282000,
+      "node" : {
+        "text" : "TDG"
+      },
+      "directionIndex" : 98
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1929616772000,
+      "node" : {
+        "text" : "JLJ"
+      },
+      "directionIndex" : 119
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1929628388000,
+      "node" : {
+        "text" : "FCN"
+      },
+      "directionIndex" : 141
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1926837829000,
+      "node" : {
+        "text" : "RDN"
+      },
+      "directionIndex" : 156
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 4,
+  "stepsToCheck" : {
+    "1965019306589" : {
+      "stepNumber" : 1965019306589,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "1965019942492" : {
+      "stepNumber" : 1965019942492,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1965019963005" : {
+      "stepNumber" : 1965019963005,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "1965019983518" : {
+      "stepNumber" : 1965019983518,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 1965019986000,
+      "node" : {
+        "text" : "BXH"
+      },
+      "directionIndex" : 234
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 1965019926000,
+      "node" : {
+        "text" : "RBN"
+      },
+      "directionIndex" : 87
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1959078137000,
+      "node" : {
+        "text" : "FXH"
+      },
+      "directionIndex" : 204
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 1965018969000,
+      "node" : {
+        "text" : "KFX"
+      },
+      "directionIndex" : 173
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 1965005503000,
+      "node" : {
+        "text" : "VJK"
+      },
+      "directionIndex" : 255
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1962173848000,
+      "node" : {
+        "text" : "LFS"
+      },
+      "directionIndex" : 239
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 6,
+  "stepsToCheck" : {
+    "1998219986836" : {
+      "stepNumber" : 1998219986836,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2000296661417" : {
+      "stepNumber" : 2000296661417,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2000297112703" : {
+      "stepNumber" : 2000297112703,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2000297133216" : {
+      "stepNumber" : 2000297133216,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2000297153729" : {
+      "stepNumber" : 2000297153729,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2000297174242" : {
+      "stepNumber" : 2000297174242,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2000297175000,
+      "node" : {
+        "text" : "PGK"
+      },
+      "directionIndex" : 196
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2000297093000,
+      "node" : {
+        "text" : "LDS"
+      },
+      "directionIndex" : 248
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 1994246987000,
+      "node" : {
+        "text" : "QVQ"
+      },
+      "directionIndex" : 154
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2000296494000,
+      "node" : {
+        "text" : "JLV"
+      },
+      "directionIndex" : 59
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2000293148000,
+      "node" : {
+        "text" : "SNS"
+      },
+      "directionIndex" : 207
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 1997424956000,
+      "node" : {
+        "text" : "CJC"
+      },
+      "directionIndex" : 216
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 4,
+  "stepsToCheck" : {
+    "2035569893132" : {
+      "stepNumber" : 2035569893132,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2035611124262" : {
+      "stepNumber" : 2035611124262,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2035612006321" : {
+      "stepNumber" : 2035612006321,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2035612026834" : {
+      "stepNumber" : 2035612026834,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2035612035000,
+      "node" : {
+        "text" : "CSC"
+      },
+      "directionIndex" : 17
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2035611995000,
+      "node" : {
+        "text" : "SGS"
+      },
+      "directionIndex" : 200
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2029469976000,
+      "node" : {
+        "text" : "NRB"
+      },
+      "directionIndex" : 239
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2035610253000,
+      "node" : {
+        "text" : "BDN"
+      },
+      "directionIndex" : 119
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2035597308000,
+      "node" : {
+        "text" : "MCQ"
+      },
+      "directionIndex" : 227
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2032677158000,
+      "node" : {
+        "text" : "PVJ"
+      },
+      "directionIndex" : 260
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 2,
+  "stepsToCheck" : {
+    "2068251061141" : {
+      "stepNumber" : 2068251061141,
+      "positionIds" : [ 1, 3, 0, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2071018675101" : {
+      "stepNumber" : 2071018675101,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2071018693000,
+      "node" : {
+        "text" : "GNL"
+      },
+      "directionIndex" : 196
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2071018512000,
+      "node" : {
+        "text" : "LCD"
+      },
+      "directionIndex" : 160
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2064769719000,
+      "node" : {
+        "text" : "HDF"
+      },
+      "directionIndex" : 17
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2071018675000,
+      "node" : {
+        "text" : "SMG"
+      },
+      "directionIndex" : 180
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2071010297000,
+      "node" : {
+        "text" : "RJX"
+      },
+      "directionIndex" : 195
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2068026048000,
+      "node" : {
+        "text" : "MLL"
+      },
+      "directionIndex" : 138
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 4,
+  "stepsToCheck" : {
+    "2105600967437" : {
+      "stepNumber" : 2105600967437,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2106200193193" : {
+      "stepNumber" : 2106200193193,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2106201567564" : {
+      "stepNumber" : 2106201567564,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2106202791319" : {
+      "stepNumber" : 2106202791319,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2106202786000,
+      "node" : {
+        "text" : "GML"
+      },
+      "directionIndex" : 20
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2106202807000,
+      "node" : {
+        "text" : "JTV"
+      },
+      "directionIndex" : 226
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2099845375000,
+      "node" : {
+        "text" : "NKP"
+      },
+      "directionIndex" : 179
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2106199704000,
+      "node" : {
+        "text" : "RSN"
+      },
+      "directionIndex" : 28
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2106183974000,
+      "node" : {
+        "text" : "NVM"
+      },
+      "directionIndex" : 127
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2103163432000,
+      "node" : {
+        "text" : "BHH"
+      },
+      "directionIndex" : 187
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "2141500912328" : {
+      "stepNumber" : 2141500912328,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2141501137971" : {
+      "stepNumber" : 2141501137971,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2141501158484" : {
+      "stepNumber" : 2141501158484,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2141501178997" : {
+      "stepNumber" : 2141501178997,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2141501199510" : {
+      "stepNumber" : 2141501199510,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2141501220023" : {
+      "stepNumber" : 2141501220023,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2141501240536" : {
+      "stepNumber" : 2141501240536,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2141501249000,
+      "node" : {
+        "text" : "XJS"
+      },
+      "directionIndex" : 34
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2141501133000,
+      "node" : {
+        "text" : "VDC"
+      },
+      "directionIndex" : 87
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2135038175000,
+      "node" : {
+        "text" : "KCT"
+      },
+      "directionIndex" : 218
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2141499639000,
+      "node" : {
+        "text" : "LNN"
+      },
+      "directionIndex" : 164
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2141470766000,
+      "node" : {
+        "text" : "FPV"
+      },
+      "directionIndex" : 195
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2138401851000,
+      "node" : {
+        "text" : "CFG"
+      },
+      "directionIndex" : 281
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "2175632041742" : {
+      "stepNumber" : 2175632041742,
+      "positionIds" : [ 1, 0, 3, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2176915704256" : {
+      "stepNumber" : 2176915704256,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2176916683260" : {
+      "stepNumber" : 2176916683260,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2176916676000,
+      "node" : {
+        "text" : "MQF"
+      },
+      "directionIndex" : 46
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2176916701000,
+      "node" : {
+        "text" : "VXR"
+      },
+      "directionIndex" : 37
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2170344995000,
+      "node" : {
+        "text" : "FSV"
+      },
+      "directionIndex" : 11
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2176915291000,
+      "node" : {
+        "text" : "VFL"
+      },
+      "directionIndex" : 95
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2176890647000,
+      "node" : {
+        "text" : "DHM"
+      },
+      "directionIndex" : 76
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2173791108000,
+      "node" : {
+        "text" : "XPV"
+      },
+      "directionIndex" : 104
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "2212308186189" : {
+      "stepNumber" : 2212308186189,
+      "positionIds" : [ 3, 1 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2212308319383" : {
+      "stepNumber" : 2212308319383,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2212308341582" : {
+      "stepNumber" : 2212308341582,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2212308363781" : {
+      "stepNumber" : 2212308363781,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2212308385980" : {
+      "stepNumber" : 2212308385980,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2212308408179" : {
+      "stepNumber" : 2212308408179,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2212308430378" : {
+      "stepNumber" : 2212308430378,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2212306808000,
+      "node" : {
+        "text" : "VJV"
+      },
+      "directionIndex" : 116
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2212308311000,
+      "node" : {
+        "text" : "TMP"
+      },
+      "directionIndex" : 47
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2205623830000,
+      "node" : {
+        "text" : "KTL"
+      },
+      "directionIndex" : 156
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2212308431000,
+      "node" : {
+        "text" : "FNK"
+      },
+      "directionIndex" : 60
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2212280444000,
+      "node" : {
+        "text" : "FVL"
+      },
+      "directionIndex" : 98
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2209127444000,
+      "node" : {
+        "text" : "LFX"
+      },
+      "directionIndex" : 219
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 11,
+  "stepsToCheck" : {
+    "2245663116047" : {
+      "stepNumber" : 2245663116047,
+      "positionIds" : [ 1, 3, 0, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2247464916428" : {
+      "stepNumber" : 2247464916428,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2247466290799" : {
+      "stepNumber" : 2247466290799,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2247466648512" : {
+      "stepNumber" : 2247466648512,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2247466667339" : {
+      "stepNumber" : 2247466667339,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2247466686166" : {
+      "stepNumber" : 2247466686166,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2247466704993" : {
+      "stepNumber" : 2247466704993,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2247466723820" : {
+      "stepNumber" : 2247466723820,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2247466742647" : {
+      "stepNumber" : 2247466742647,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2247466761474" : {
+      "stepNumber" : 2247466761474,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2247466780301" : {
+      "stepNumber" : 2247466780301,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2247466648000,
+      "node" : {
+        "text" : "SXC"
+      },
+      "directionIndex" : 50
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2247466786000,
+      "node" : {
+        "text" : "PHM"
+      },
+      "directionIndex" : 79
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2240702850000,
+      "node" : {
+        "text" : "MPS"
+      },
+      "directionIndex" : 186
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2247464357000,
+      "node" : {
+        "text" : "BJG"
+      },
+      "directionIndex" : 43
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2247457202000,
+      "node" : {
+        "text" : "BVB"
+      },
+      "directionIndex" : 146
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2244241812000,
+      "node" : {
+        "text" : "MQD"
+      },
+      "directionIndex" : 135
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "2282329570209" : {
+      "stepNumber" : 2282329570209,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2282329590722" : {
+      "stepNumber" : 2282329590722,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2282329611235" : {
+      "stepNumber" : 2282329611235,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2282329615000,
+      "node" : {
+        "text" : "LSH"
+      },
+      "directionIndex" : 112
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2282329560000,
+      "node" : {
+        "text" : "DJQ"
+      },
+      "directionIndex" : 188
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2275479357000,
+      "node" : {
+        "text" : "PFB"
+      },
+      "directionIndex" : 14
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2282329159000,
+      "node" : {
+        "text" : "KRH"
+      },
+      "directionIndex" : 175
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2282328548000,
+      "node" : {
+        "text" : "QBJ"
+      },
+      "directionIndex" : 69
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2279059486000,
+      "node" : {
+        "text" : "FLQ"
+      },
+      "directionIndex" : 182
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 10,
+  "stepsToCheck" : {
+    "2315694190352" : {
+      "stepNumber" : 2315694190352,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2317444272964" : {
+      "stepNumber" : 2317444272964,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2317444291791" : {
+      "stepNumber" : 2317444291791,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2317444310618" : {
+      "stepNumber" : 2317444310618,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2317444329445" : {
+      "stepNumber" : 2317444329445,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2317444348272" : {
+      "stepNumber" : 2317444348272,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2317444367099" : {
+      "stepNumber" : 2317444367099,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2317444385926" : {
+      "stepNumber" : 2317444385926,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2317444404753" : {
+      "stepNumber" : 2317444404753,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2317444423580" : {
+      "stepNumber" : 2317444423580,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2317444261000,
+      "node" : {
+        "text" : "GRB"
+      },
+      "directionIndex" : 119
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2317444427000,
+      "node" : {
+        "text" : "JTV"
+      },
+      "directionIndex" : 48
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2310467538000,
+      "node" : {
+        "text" : "QTM"
+      },
+      "directionIndex" : 195
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2317443836000,
+      "node" : {
+        "text" : "NBN"
+      },
+      "directionIndex" : 272
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2317435302320,
+      "node" : {
+        "text" : "ZZZ"
+      },
+      "directionIndex" : 281
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2314131936000,
+      "node" : {
+        "text" : "LTG"
+      },
+      "directionIndex" : 273
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 1,
+  "stepsToCheck" : {
+    "2352797199370" : {
+      "stepNumber" : 2352797199370,
+      "positionIds" : [ 1, 3 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2352797005000,
+      "node" : {
+        "text" : "GML"
+      },
+      "directionIndex" : 82
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2352797575000,
+      "node" : {
+        "text" : "VST"
+      },
+      "directionIndex" : 214
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2345699651000,
+      "node" : {
+        "text" : "JPL"
+      },
+      "directionIndex" : 210
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2352797558000,
+      "node" : {
+        "text" : "KNS"
+      },
+      "directionIndex" : 74
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2352794012000,
+      "node" : {
+        "text" : "BRB"
+      },
+      "directionIndex" : 13
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2349450008000,
+      "node" : {
+        "text" : "CJD"
+      },
+      "directionIndex" : 264
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 2,
+  "stepsToCheck" : {
+    "2385725264657" : {
+      "stepNumber" : 2385725264657,
+      "positionIds" : [ 1, 0, 3, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2388048685900" : {
+      "stepNumber" : 2388048685900,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2388048673000,
+      "node" : {
+        "text" : "CQL"
+      },
+      "directionIndex" : 26
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2388048699000,
+      "node" : {
+        "text" : "NRG"
+      },
+      "directionIndex" : 174
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2380837948000,
+      "node" : {
+        "text" : "KVL"
+      },
+      "directionIndex" : 9
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2388048299000,
+      "node" : {
+        "text" : "KPG"
+      },
+      "directionIndex" : 37
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2388039559000,
+      "node" : {
+        "text" : "BPL"
+      },
+      "directionIndex" : 261
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2384640641000,
+      "node" : {
+        "text" : "QQP"
+      },
+      "directionIndex" : 94
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 14,
+  "stepsToCheck" : {
+    "2423075170953" : {
+      "stepNumber" : 2423075170953,
+      "positionIds" : [ 1, 3, 0, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2423571940175" : {
+      "stepNumber" : 2423571940175,
+      "positionIds" : [ 3, 1 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2423571962374" : {
+      "stepNumber" : 2423571962374,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423571984573" : {
+      "stepNumber" : 2423571984573,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423572006772" : {
+      "stepNumber" : 2423572006772,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423572028971" : {
+      "stepNumber" : 2423572028971,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423572051170" : {
+      "stepNumber" : 2423572051170,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423572073369" : {
+      "stepNumber" : 2423572073369,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423572095568" : {
+      "stepNumber" : 2423572095568,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423572117767" : {
+      "stepNumber" : 2423572117767,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423572139966" : {
+      "stepNumber" : 2423572139966,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423572162165" : {
+      "stepNumber" : 2423572162165,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423572184364" : {
+      "stepNumber" : 2423572184364,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    },
+    "2423572206563" : {
+      "stepNumber" : 2423572206563,
+      "positionIds" : [ 3 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2423570782000,
+      "node" : {
+        "text" : "QDF"
+      },
+      "directionIndex" : 107
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2423571955000,
+      "node" : {
+        "text" : "QRG"
+      },
+      "directionIndex" : 213
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2416262395000,
+      "node" : {
+        "text" : "KQH"
+      },
+      "directionIndex" : 202
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2423572208000,
+      "node" : {
+        "text" : "GFM"
+      },
+      "directionIndex" : 32
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2423566148000,
+      "node" : {
+        "text" : "MBP"
+      },
+      "directionIndex" : 78
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2420122677000,
+      "node" : {
+        "text" : "LCN"
+      },
+      "directionIndex" : 23
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "2455756338962" : {
+      "stepNumber" : 2455756338962,
+      "positionIds" : [ 1, 3, 0, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2459071321814" : {
+      "stepNumber" : 2459071321814,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2459071415949" : {
+      "stepNumber" : 2459071415949,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2459071402000,
+      "node" : {
+        "text" : "CPR"
+      },
+      "directionIndex" : 101
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2459071432000,
+      "node" : {
+        "text" : "SRJ"
+      },
+      "directionIndex" : 34
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2451666639000,
+      "node" : {
+        "text" : "HGC"
+      },
+      "directionIndex" : 171
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2459067635000,
+      "node" : {
+        "text" : "TCJ"
+      },
+      "directionIndex" : 187
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2459070825000,
+      "node" : {
+        "text" : "LMJ"
+      },
+      "directionIndex" : 275
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2455562353000,
+      "node" : {
+        "text" : "LPF"
+      },
+      "directionIndex" : 140
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "2493106245258" : {
+      "stepNumber" : 2493106245258,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2494653787004" : {
+      "stepNumber" : 2494653787004,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2494654408295" : {
+      "stepNumber" : 2494654408295,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2494654391000,
+      "node" : {
+        "text" : "GVL"
+      },
+      "directionIndex" : 127
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2494654426000,
+      "node" : {
+        "text" : "DLN"
+      },
+      "directionIndex" : 2
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2487140754000,
+      "node" : {
+        "text" : "LDK"
+      },
+      "directionIndex" : 209
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2494653417000,
+      "node" : {
+        "text" : "HJL"
+      },
+      "directionIndex" : 73
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2494645608000,
+      "node" : {
+        "text" : "HBH"
+      },
+      "directionIndex" : 63
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2491077784000,
+      "node" : {
+        "text" : "TPR"
+      },
+      "directionIndex" : 186
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 3,
+  "stepsToCheck" : {
+    "2530019101576" : {
+      "stepNumber" : 2530019101576,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2530020475947" : {
+      "stepNumber" : 2530020475947,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2530021172546" : {
+      "stepNumber" : 2530021172546,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2530021171000,
+      "node" : {
+        "text" : "RPL"
+      },
+      "directionIndex" : 140
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2530021184000,
+      "node" : {
+        "text" : "RKK"
+      },
+      "directionIndex" : 214
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2522412464000,
+      "node" : {
+        "text" : "MJX"
+      },
+      "directionIndex" : 109
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2530018374000,
+      "node" : {
+        "text" : "KXR"
+      },
+      "directionIndex" : 214
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2530006247000,
+      "node" : {
+        "text" : "MND"
+      },
+      "directionIndex" : 50
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2526396261000,
+      "node" : {
+        "text" : "HCC"
+      },
+      "directionIndex" : 256
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 4,
+  "stepsToCheck" : {
+    "2563137319563" : {
+      "stepNumber" : 2563137319563,
+      "positionIds" : [ 1, 0, 3, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2564717563808" : {
+      "stepNumber" : 2564717563808,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2564717582635" : {
+      "stepNumber" : 2564717582635,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2564717601462" : {
+      "stepNumber" : 2564717601462,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2564717558000,
+      "node" : {
+        "text" : "BLD"
+      },
+      "directionIndex" : 93
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2564717604000,
+      "node" : {
+        "text" : "QGL"
+      },
+      "directionIndex" : 9
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2557011948931,
+      "node" : {
+        "text" : "PFZ"
+      },
+      "directionIndex" : 281
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2564717509000,
+      "node" : {
+        "text" : "RGM"
+      },
+      "directionIndex" : 268
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2564710076000,
+      "node" : {
+        "text" : "CTK"
+      },
+      "directionIndex" : 280
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2561064621000,
+      "node" : {
+        "text" : "JGT"
+      },
+      "directionIndex" : 149
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 15,
+  "stepsToCheck" : {
+    "2599889374474" : {
+      "stepNumber" : 2599889374474,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2599890256533" : {
+      "stepNumber" : 2599890256533,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890277046" : {
+      "stepNumber" : 2599890277046,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890297559" : {
+      "stepNumber" : 2599890297559,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890318072" : {
+      "stepNumber" : 2599890318072,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890338585" : {
+      "stepNumber" : 2599890338585,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890359098" : {
+      "stepNumber" : 2599890359098,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890379611" : {
+      "stepNumber" : 2599890379611,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890400124" : {
+      "stepNumber" : 2599890400124,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890420637" : {
+      "stepNumber" : 2599890420637,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890441150" : {
+      "stepNumber" : 2599890441150,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890461663" : {
+      "stepNumber" : 2599890461663,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890482176" : {
+      "stepNumber" : 2599890482176,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890502689" : {
+      "stepNumber" : 2599890502689,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2599890523202" : {
+      "stepNumber" : 2599890523202,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2599890530000,
+      "node" : {
+        "text" : "QHT"
+      },
+      "directionIndex" : 54
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2599890251000,
+      "node" : {
+        "text" : "QCM"
+      },
+      "directionIndex" : 87
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2592077872000,
+      "node" : {
+        "text" : "QDN"
+      },
+      "directionIndex" : 228
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2599888801000,
+      "node" : {
+        "text" : "PMT"
+      },
+      "directionIndex" : 47
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2599885790000,
+      "node" : {
+        "text" : "FKF"
+      },
+      "directionIndex" : 243
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2596199276000,
+      "node" : {
+        "text" : "MTG"
+      },
+      "directionIndex" : 270
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "2633168393868" : {
+      "stepNumber" : 2633168393868,
+      "positionIds" : [ 3, 0, 1, 4 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2635495203971" : {
+      "stepNumber" : 2635495203971,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2635496578342" : {
+      "stepNumber" : 2635496578342,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2635497952713" : {
+      "stepNumber" : 2635497952713,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2635498157843" : {
+      "stepNumber" : 2635498157843,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2635498178356" : {
+      "stepNumber" : 2635498178356,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2635498198869" : {
+      "stepNumber" : 2635498198869,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2635498219000,
+      "node" : {
+        "text" : "RPC"
+      },
+      "directionIndex" : 180
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2635498140000,
+      "node" : {
+        "text" : "TCF"
+      },
+      "directionIndex" : 141
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2627595839000,
+      "node" : {
+        "text" : "KSX"
+      },
+      "directionIndex" : 249
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2635494861000,
+      "node" : {
+        "text" : "LLM"
+      },
+      "directionIndex" : 130
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2635483045000,
+      "node" : {
+        "text" : "RTG"
+      },
+      "directionIndex" : 180
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2631752516000,
+      "node" : {
+        "text" : "NTM"
+      },
+      "directionIndex" : 204
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 5,
+  "stepsToCheck" : {
+    "2670518300164" : {
+      "stepNumber" : 2670518300164,
+      "positionIds" : [ 3, 0, 1, 4 ],
+      "nodes" : [ {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2670572290380" : {
+      "stepNumber" : 2670572290380,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2670572310893" : {
+      "stepNumber" : 2670572310893,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2670572331406" : {
+      "stepNumber" : 2670572331406,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2670572351919" : {
+      "stepNumber" : 2670572351919,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2670572366000,
+      "node" : {
+        "text" : "NDH"
+      },
+      "directionIndex" : 31
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2670571984000,
+      "node" : {
+        "text" : "JLP"
+      },
+      "directionIndex" : 191
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2662551022000,
+      "node" : {
+        "text" : "RRH"
+      },
+      "directionIndex" : 260
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2670572277000,
+      "node" : {
+        "text" : "LNN"
+      },
+      "directionIndex" : 108
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2670547467000,
+      "node" : {
+        "text" : "XLR"
+      },
+      "directionIndex" : 160
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2666772662000,
+      "node" : {
+        "text" : "BCC"
+      },
+      "directionIndex" : 230
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 9,
+  "stepsToCheck" : {
+    "2703199468173" : {
+      "stepNumber" : 2703199468173,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2706239576825" : {
+      "stepNumber" : 2706239576825,
+      "positionIds" : [ 1, 3, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2706248971498" : {
+      "stepNumber" : 2706248971498,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2706248990325" : {
+      "stepNumber" : 2706248990325,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2706249009152" : {
+      "stepNumber" : 2706249009152,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2706249027979" : {
+      "stepNumber" : 2706249027979,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2706249046806" : {
+      "stepNumber" : 2706249046806,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2706249065633" : {
+      "stepNumber" : 2706249065633,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2706249084460" : {
+      "stepNumber" : 2706249084460,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2706248810000,
+      "node" : {
+        "text" : "GCS"
+      },
+      "directionIndex" : 77
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2706249101000,
+      "node" : {
+        "text" : "FGL"
+      },
+      "directionIndex" : 242
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2698133087000,
+      "node" : {
+        "text" : "QPT"
+      },
+      "directionIndex" : 214
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2706248953000,
+      "node" : {
+        "text" : "LSS"
+      },
+      "directionIndex" : 48
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2706237621000,
+      "node" : {
+        "text" : "JCS"
+      },
+      "directionIndex" : 216
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2702401907000,
+      "node" : {
+        "text" : "QQP"
+      },
+      "directionIndex" : 3
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 5,
+  "stepsToCheck" : {
+    "2740549374469" : {
+      "stepNumber" : 2740549374469,
+      "positionIds" : [ 1, 0, 3, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2741027655577" : {
+      "stepNumber" : 2741027655577,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2741028209428" : {
+      "stepNumber" : 2741028209428,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2741028229941" : {
+      "stepNumber" : 2741028229941,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2741028250454" : {
+      "stepNumber" : 2741028250454,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2741028264000,
+      "node" : {
+        "text" : "FTK"
+      },
+      "directionIndex" : 58
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2741028202000,
+      "node" : {
+        "text" : "MPH"
+      },
+      "directionIndex" : 159
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2732815399000,
+      "node" : {
+        "text" : "QJP"
+      },
+      "directionIndex" : 176
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2741026289000,
+      "node" : {
+        "text" : "SGQ"
+      },
+      "directionIndex" : 207
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2741022743000,
+      "node" : {
+        "text" : "VQC"
+      },
+      "directionIndex" : 146
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2737153496000,
+      "node" : {
+        "text" : "HQQ"
+      },
+      "directionIndex" : 68
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 11,
+  "stepsToCheck" : {
+    "2773230542478" : {
+      "stepNumber" : 2773230542478,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2775681045971" : {
+      "stepNumber" : 2775681045971,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2775682420342" : {
+      "stepNumber" : 2775682420342,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2775683399346" : {
+      "stepNumber" : 2775683399346,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2775683418173" : {
+      "stepNumber" : 2775683418173,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2775683437000" : {
+      "stepNumber" : 2775683437000,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2775683455827" : {
+      "stepNumber" : 2775683455827,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2775683474654" : {
+      "stepNumber" : 2775683474654,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2775683493481" : {
+      "stepNumber" : 2775683493481,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2775683512308" : {
+      "stepNumber" : 2775683512308,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2775683531135" : {
+      "stepNumber" : 2775683531135,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2775683389000,
+      "node" : {
+        "text" : "KDX"
+      },
+      "directionIndex" : 51
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2775683538000,
+      "node" : {
+        "text" : "VFP"
+      },
+      "directionIndex" : 121
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2767369774000,
+      "node" : {
+        "text" : "NRB"
+      },
+      "directionIndex" : 190
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2775680369000,
+      "node" : {
+        "text" : "FSC"
+      },
+      "directionIndex" : 239
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2775677955000,
+      "node" : {
+        "text" : "QBF"
+      },
+      "directionIndex" : 29
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2771755194000,
+      "node" : {
+        "text" : "LPD"
+      },
+      "directionIndex" : 153
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 12,
+  "stepsToCheck" : {
+    "2810363298156" : {
+      "stepNumber" : 2810363298156,
+      "positionIds" : [ 1, 0, 3 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "2810367421269" : {
+      "stepNumber" : 2810367421269,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2810368776813" : {
+      "stepNumber" : 2810368776813,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2810368795640" : {
+      "stepNumber" : 2810368795640,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2810368814467" : {
+      "stepNumber" : 2810368814467,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2810368833294" : {
+      "stepNumber" : 2810368833294,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2810368852121" : {
+      "stepNumber" : 2810368852121,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2810368870948" : {
+      "stepNumber" : 2810368870948,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2810368889775" : {
+      "stepNumber" : 2810368889775,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2810368908602" : {
+      "stepNumber" : 2810368908602,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2810368927429" : {
+      "stepNumber" : 2810368927429,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2810368946256" : {
+      "stepNumber" : 2810368946256,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2810368775000,
+      "node" : {
+        "text" : "RMX"
+      },
+      "directionIndex" : 154
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2810368956000,
+      "node" : {
+        "text" : "CMQ"
+      },
+      "directionIndex" : 190
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2801945948000,
+      "node" : {
+        "text" : "JTF"
+      },
+      "directionIndex" : 67
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2810366089000,
+      "node" : {
+        "text" : "KTR"
+      },
+      "directionIndex" : 233
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2810358349000,
+      "node" : {
+        "text" : "XBS"
+      },
+      "directionIndex" : 97
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2806402236000,
+      "node" : {
+        "text" : "KFL"
+      },
+      "directionIndex" : 111
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 15,
+  "stepsToCheck" : {
+    "2843261616783" : {
+      "stepNumber" : 2843261616783,
+      "positionIds" : [ 1, 0, 3, 4 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2845383005489" : {
+      "stepNumber" : 2845383005489,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383024316" : {
+      "stepNumber" : 2845383024316,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383043143" : {
+      "stepNumber" : 2845383043143,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383061970" : {
+      "stepNumber" : 2845383061970,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383080797" : {
+      "stepNumber" : 2845383080797,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383099624" : {
+      "stepNumber" : 2845383099624,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383118451" : {
+      "stepNumber" : 2845383118451,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383137278" : {
+      "stepNumber" : 2845383137278,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383156105" : {
+      "stepNumber" : 2845383156105,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383174932" : {
+      "stepNumber" : 2845383174932,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383193759" : {
+      "stepNumber" : 2845383193759,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383212586" : {
+      "stepNumber" : 2845383212586,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383231413" : {
+      "stepNumber" : 2845383231413,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2845383250240" : {
+      "stepNumber" : 2845383250240,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2845383000000,
+      "node" : {
+        "text" : "DJD"
+      },
+      "directionIndex" : 131
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2845383264000,
+      "node" : {
+        "text" : "JRX"
+      },
+      "directionIndex" : 272
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2836873089000,
+      "node" : {
+        "text" : "HQS"
+      },
+      "directionIndex" : 192
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2845382561000,
+      "node" : {
+        "text" : "DJB"
+      },
+      "directionIndex" : 53
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2845379298000,
+      "node" : {
+        "text" : "MND"
+      },
+      "directionIndex" : 25
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2841359376000,
+      "node" : {
+        "text" : "KKX"
+      },
+      "directionIndex" : 238
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 9,
+  "stepsToCheck" : {
+    "2880508445254" : {
+      "stepNumber" : 2880508445254,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2880509819625" : {
+      "stepNumber" : 2880509819625,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2880511193996" : {
+      "stepNumber" : 2880511193996,
+      "positionIds" : [ 0, 1 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      } ]
+    },
+    "2880511727334" : {
+      "stepNumber" : 2880511727334,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2880511747847" : {
+      "stepNumber" : 2880511747847,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2880511768360" : {
+      "stepNumber" : 2880511768360,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2880511788873" : {
+      "stepNumber" : 2880511788873,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2880511809386" : {
+      "stepNumber" : 2880511809386,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    },
+    "2880511829899" : {
+      "stepNumber" : 2880511829899,
+      "positionIds" : [ 0 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2880511839000,
+      "node" : {
+        "text" : "VKD"
+      },
+      "directionIndex" : 109
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2880511713000,
+      "node" : {
+        "text" : "PNQ"
+      },
+      "directionIndex" : 278
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2871907889000,
+      "node" : {
+        "text" : "TLJ"
+      },
+      "directionIndex" : 68
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2880504511000,
+      "node" : {
+        "text" : "TCJ"
+      },
+      "directionIndex" : 27
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2880507081000,
+      "node" : {
+        "text" : "RPV"
+      },
+      "directionIndex" : 1
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2876452985000,
+      "node" : {
+        "text" : "BTF"
+      },
+      "directionIndex" : 29
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 10,
+  "stepsToCheck" : {
+    "2913292691088" : {
+      "stepNumber" : 2913292691088,
+      "positionIds" : [ 0, 1, 4, 3 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "ZZZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "2915641302857" : {
+      "stepNumber" : 2915641302857,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2915641321684" : {
+      "stepNumber" : 2915641321684,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2915641340511" : {
+      "stepNumber" : 2915641340511,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2915641359338" : {
+      "stepNumber" : 2915641359338,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2915641378165" : {
+      "stepNumber" : 2915641378165,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2915641396992" : {
+      "stepNumber" : 2915641396992,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2915641415819" : {
+      "stepNumber" : 2915641415819,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2915641434646" : {
+      "stepNumber" : 2915641434646,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2915641453473" : {
+      "stepNumber" : 2915641453473,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2915641302000,
+      "node" : {
+        "text" : "HPG"
+      },
+      "directionIndex" : 267
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2915641454000,
+      "node" : {
+        "text" : "KHR"
+      },
+      "directionIndex" : 246
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2906942267000,
+      "node" : {
+        "text" : "HQG"
+      },
+      "directionIndex" : 6
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2915637322000,
+      "node" : {
+        "text" : "FSC"
+      },
+      "directionIndex" : 70
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2915640809000,
+      "node" : {
+        "text" : "VKF"
+      },
+      "directionIndex" : 141
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2911545425000,
+      "node" : {
+        "text" : "BPB"
+      },
+      "directionIndex" : 61
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 10,
+  "stepsToCheck" : {
+    "2950642597384" : {
+      "stepNumber" : 2950642597384,
+      "positionIds" : [ 0, 1, 3, 4 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "GNZ"
+      }, {
+        "text" : "ZZZ"
+      } ]
+    },
+    "2951006579775" : {
+      "stepNumber" : 2951006579775,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2951006598602" : {
+      "stepNumber" : 2951006598602,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2951006617429" : {
+      "stepNumber" : 2951006617429,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2951006636256" : {
+      "stepNumber" : 2951006636256,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2951006655083" : {
+      "stepNumber" : 2951006655083,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2951006673910" : {
+      "stepNumber" : 2951006673910,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2951006692737" : {
+      "stepNumber" : 2951006692737,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2951006711564" : {
+      "stepNumber" : 2951006711564,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2951006730391" : {
+      "stepNumber" : 2951006730391,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2951006570000,
+      "node" : {
+        "text" : "NQG"
+      },
+      "directionIndex" : 60
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2951006747000,
+      "node" : {
+        "text" : "HGJ"
+      },
+      "directionIndex" : 30
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2942185256000,
+      "node" : {
+        "text" : "VBN"
+      },
+      "directionIndex" : 197
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2951005669000,
+      "node" : {
+        "text" : "XNM"
+      },
+      "directionIndex" : 227
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2951000512000,
+      "node" : {
+        "text" : "DHM"
+      },
+      "directionIndex" : 139
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2946856372000,
+      "node" : {
+        "text" : "LFS"
+      },
+      "directionIndex" : 88
+    }
+  },
+  "finishedCheck" : null
+}{
+  "numberOfStepsToCheck" : 7,
+  "stepsToCheck" : {
+    "2983323765393" : {
+      "stepNumber" : 2983323765393,
+      "positionIds" : [ 0, 1, 4, 3 ],
+      "nodes" : [ {
+        "text" : "QCZ"
+      }, {
+        "text" : "CJZ"
+      }, {
+        "text" : "ZZZ"
+      }, {
+        "text" : "GNZ"
+      } ]
+    },
+    "2986431218224" : {
+      "stepNumber" : 2986431218224,
+      "positionIds" : [ 1, 0 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      }, {
+        "text" : "QCZ"
+      } ]
+    },
+    "2986431933650" : {
+      "stepNumber" : 2986431933650,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2986431952477" : {
+      "stepNumber" : 2986431952477,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2986431971304" : {
+      "stepNumber" : 2986431971304,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2986431990131" : {
+      "stepNumber" : 2986431990131,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    },
+    "2986432008958" : {
+      "stepNumber" : 2986432008958,
+      "positionIds" : [ 1 ],
+      "nodes" : [ {
+        "text" : "CJZ"
+      } ]
+    }
+  },
+  "lastPositions" : {
+    "0" : {
+      "positionId" : 0,
+      "stepNumber" : 2986431924000,
+      "node" : {
+        "text" : "SXC"
+      },
+      "directionIndex" : 185
+    },
+    "1" : {
+      "positionId" : 1,
+      "stepNumber" : 2986432017000,
+      "node" : {
+        "text" : "QKM"
+      },
+      "directionIndex" : 174
+    },
+    "2" : {
+      "positionId" : 2,
+      "stepNumber" : 2977498541000,
+      "node" : {
+        "text" : "GCH"
+      },
+      "directionIndex" : 23
+    },
+    "3" : {
+      "positionId" : 3,
+      "stepNumber" : 2986428585000,
+      "node" : {
+        "text" : "KPG"
+      },
+      "directionIndex" : 27
+    },
+    "4" : {
+      "positionId" : 4,
+      "stepNumber" : 2986430378000,
+      "node" : {
+        "text" : "KKN"
+      },
+      "directionIndex" : 247
+    },
+    "5" : {
+      "positionId" : 5,
+      "stepNumber" : 2982241275000,
+      "node" : {
+        "text" : "BJB"
+      },
+      "directionIndex" : 6
+    }
+  },
+  "finishedCheck" : null
+}
